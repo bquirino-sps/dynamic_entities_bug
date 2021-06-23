@@ -1,7 +1,7 @@
 const common = require("oci-common");
 const promise = require("es6-promise");
-const { BOT_ID, ENTITY_ID, HOST, CONFIG_PATH} = require('../keys');
-const dynamicEntitiesValues = require('../dynamicEntityData.json');
+const { BOT_ID, ENTITY_ID, HOST, CONFIG_PATH, DATA_TO_PUSH_PATH} = require('../keys');
+const dynamicEntitiesValues = require(DATA_TO_PUSH_PATH);
 
 async function pushDataToRequest(pushRequestId){
     // 1. Create Request Signing instance
@@ -40,7 +40,10 @@ async function pushDataToRequest(pushRequestId){
     try{
         const data = await response.json()
         console.log('pushData',data);
-        return data;
+        if(data.pushRequestId){
+            return data;
+        }
+        return false;
     }catch(error){
         console.log(error);
         return false;

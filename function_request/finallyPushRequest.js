@@ -42,6 +42,9 @@ async function finallyPushRequest(pushRequestId,action){
     try{
         const data = await response.json()
         console.log('finallyPushRequest',data);
+        if(data.status != 200){
+          return false;
+        }
         return data;
     }catch(error){
         console.log(error);

@@ -3,15 +3,16 @@ const {pushDataToRequest} = require('./function_request/pushDataToRequest');
 const {finallyPushRequest} = require('./function_request/finallyPushRequest');
 
 async function main(){
+    let pushRequestId;
     createPushRequest()
     .then(pushRequestData =>{
-        if(pushRequestData){
-            let pushRequestId =  pushRequestData.id
+        if(pushRequestData.id){
+            pushRequestId =  pushRequestData.id
             return pushRequestId
         }
         return false;
     })
-    .then(async (pushRequestId)=>{
+    .then(async ()=>{
         if(pushRequestId){
             let data = await pushDataToRequest(pushRequestId)
             return data;
@@ -20,10 +21,10 @@ async function main(){
     })
     .then(async (status)=>{
         let result;
-        if(status){
-            result = await finallyPushRequest(status.pushRequestId,'DONE')
+        if(status.pushRequestId){
+            result = await finallyPushRequest(pushRequestId,'DONE')
         }else{
-            result = await finallyPushRequest(status.pushRequestId,'ABORT')
+            result = await finallyPushRequest(pushRequestId,'ABORT')
         }
         return result;
     })

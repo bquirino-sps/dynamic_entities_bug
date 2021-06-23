@@ -1,0 +1,3545 @@
+{
+  "add": [
+    {
+      "canonicalName": "TACABCO",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de abdomen completo superior e inferior con contraste oral",
+        "tc",
+        "tac de abdomen completo",
+        "abdomen superior e inferior",
+        "abdomen y pelvis con contraste oral"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACABCS",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de abdomen completo superior e inferior simple",
+        "tc",
+        "tac de abdomen completo",
+        "abdomen superior e inferior",
+        "abdomen y pelvis simple"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACABINC",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de abdomen inferior con contraste oral",
+        "tc",
+        "tac de abdomen inferior",
+        "pelvis con contraste oral"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACABINS",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de abdomen inferior simple pelvis",
+        "tc",
+        "tac de abdomen inferior simple",
+        "pelvis simple"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACABSU",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de abdomen superior con contraste oral",
+        "tc",
+        "tac de abdomen superior",
+        "abdomen con contraste oral"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACABSUS",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de abdomen superior simple",
+        "tc",
+        "tac de abdomen superior simple"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACAGAO",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de angio aorta abdominal",
+        "tc",
+        "tac de angio aorta abdominal"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACAGAT",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de angio aorta toraxica",
+        "tc",
+        "tac de angio aorta toraxica"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACAGCA",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de angio carotidas",
+        "tc",
+        "tac de angio carotidas"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACAGCE",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de angio cerebral",
+        "tc",
+        "tac de angio cerebral"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACCO1R",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de columna 1 region con contraste",
+        "tc",
+        "tac de columna 1 region con contraste"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACCO1S",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de columna 1 region simple",
+        "tc",
+        "tac de columna 1 region simple"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACCO2R",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de columna 2 region con contraste",
+        "tc",
+        "tac de columna 2 region con contraste"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACCO2S",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de columna 2 regiones simple",
+        "tc",
+        "tac de columna 2 regiones simple"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACCO3R",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de columna 3 regiones con contraste",
+        "tc",
+        "tac de columna 3 regiones con contraste"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACCO3S",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de columna 3 regiones simple",
+        "tc",
+        "tac de columna 3 regiones simple"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACCRCO",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de craneo con contraste",
+        "tc",
+        "tac de craneo con contraste"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACCRSI",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de craneo simple",
+        "tc",
+        "tac de craneo simple"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACCUCO",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de cuello con contraste",
+        "tc",
+        "tac de cuello con contraste"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACCUSI",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de cuello simple",
+        "tc",
+        "tac de cuello simple"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACESMI",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de escanometría de miembros inferiores por tac",
+        "tc",
+        "tac de escanometría de miembros inferiores por tac"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACEXCO",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de extremidad con contraste",
+        "tc",
+        "tac de extremidad con contraste"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACEXSI",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de extremidad simple",
+        "tc",
+        "tac de extremidad simple"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACGLSU",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de glandulas suprarenales",
+        "tc",
+        "tac de glandulas suprarenales"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACMFCO",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de macizo facial con contraste",
+        "tc",
+        "tac de macizo facial con contraste"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACMFSI",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de macizo facial simple",
+        "tc",
+        "tac de macizo facial simple"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACOICO",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de oido con contraste",
+        "tc",
+        "tac de oido con contraste"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACOISI",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de oido simple",
+        "tc",
+        "tac de oido simple"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACORCO",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de orbita con contraste",
+        "tc",
+        "tac de orbita con contraste"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACORSI",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de orbita simple",
+        "tc",
+        "tac de orbita simple"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACPECO",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de pelvis con contraste",
+        "tc",
+        "tac de pelvis con contraste"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACPESI",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de pelvis simple",
+        "tc",
+        "tac de pelvis simple"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACPUCI",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de pulmon con contraste en inspiracion y espiracion",
+        "tc",
+        "tac de pulmon con contraste en inspiracion y espiracion"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACPUSI",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de pulmon simple en inspiracion y espiracion de alta resolucion",
+        "tc",
+        "tac de pulmon simple en inspiracion y espiracion"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACRODI",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de rodilla",
+        "tc",
+        "tac de rodilla"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACSCCA",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de score de calcio",
+        "tc",
+        "tac de score de calcio"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACSP6C",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de senos paranasales 6 cortes",
+        "tc",
+        "tac de senos paranasales 6 cortes"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACSPCO",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de senos paranasales con contraste",
+        "tc",
+        "tac de senos paranasales con contraste"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACSPSI",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de senos paranasales simple",
+        "tc",
+        "tac de senos paranasales simple"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACSTCO",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de silla turca con contraste",
+        "tc",
+        "tac de silla turca con contraste"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACSTSI",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de silla turca simple",
+        "tc",
+        "tac de silla turca simple"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACTOAR",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de torax alta resolucion sin contraste",
+        "tc",
+        "tac de torax alta resolucion sin contraste"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACTOCI",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de torax con contraste en inspiracion y espiracion",
+        "tc",
+        "tac de torax con contraste en inspiracion y expiracion"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACTOCO",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de torax con contraste",
+        "tc",
+        "tac de torax con contraste"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACTOFT",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de tobillo fractura/tumores",
+        "tc",
+        "tac de tobillo fractura/tumores"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACTOSI",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de torax simple",
+        "tc",
+        "tac de torax simple"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACTOSIN",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de torax simple en inspiracion y espiracion",
+        "tc",
+        "tac de torax simple en inspiracion y espiracion"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACUC4S",
+      "synonyms": [
+        "urotac",
+        "urotac 4",
+        "urotac cuatro",
+        "urotac 4 fases",
+        "simple",
+        "arterial",
+        "venosa y excretora",
+        "tc",
+        "tac de urotac 4 fases",
+        "simple",
+        "arterial",
+        "venosa y excretora"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TACURTA",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de urotac simple",
+        "tc",
+        "tac de urotac simple"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TCANMI1",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de angio de miembro inferior una extremidad",
+        "tc",
+        "tac de angio de miembro inferior una extremidad"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "TCANMI2",
+      "synonyms": [
+        "tomografía",
+        "tomografia",
+        "tomografía axial",
+        "tomografia axial",
+        "tomogrfia axial computarizada de angio de miembro inferior dos extremidades",
+        "tc",
+        "tac de angio de miembro inferior dos extremidades"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USABDC",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido abdominal",
+        "ultrasonido abdominal completo",
+        "rastreo abdominal"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USABDI",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido abdominal",
+        "ultrasonido abdominal inferior",
+        "ultrasonido de hemiabdomen inferior"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USABDS",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido abdominal",
+        "ultrasonido abdominal superior",
+        "ultrasonido de hemiabdomen superior"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USBAZO",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido bazo",
+        "ultrasonido bazo",
+        "ultrasonido esplenico"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USDCA2",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido doppler",
+        "ultrasonido doppler arterial",
+        "ultrasonido doppler color",
+        "ultrasonido dopler",
+        "ultrasonido doppler color arterial 2 extremidades",
+        "doppler arterial de miembros pélvicos"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USDCAR",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido doppler",
+        "ultrasonido doppler arterial",
+        "ultrasonido doppler color",
+        "ultrasonido dopler",
+        "ultrasonido doppler color arterial 1 extremidad",
+        "doppler arterial de miembro pelvico derecho o izquierdo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USDCBA",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido doppler",
+        "ultrasonido doppler bazo",
+        "ultrasonido doppler color",
+        "ultrasonido dopler",
+        "ultrasonido doppler color bazo",
+        "doppler esplenico"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USDCCA",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido doppler",
+        "ultrasonido doppler color",
+        "ultrasonido dopler",
+        "ultrasonido doppler color carotídeo",
+        "doppler carotideo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USDCCU",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido doppler",
+        "ultrasonido doppler color",
+        "ultrasonido dopler",
+        "ultrasonido doppler color cuello",
+        "doppler de cuello"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USDCEN",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido doppler",
+        "ultrasonido doppler color",
+        "ultrasonido dopler",
+        "ultrasonido doppler color endocavitario utero y ovarios",
+        "doppler ginecologico"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USDCEO",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido doppler",
+        "ultrasonido doppler color",
+        "ultrasonido dopler",
+        "ultrasonido doppler color endocavitario obst 1º trimestre",
+        "doppler color obstetrico de primer trimestre transvaginal"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USDCES",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido doppler",
+        "ultrasonido doppler color",
+        "ultrasonido dopler",
+        "ultrasonido doppler color endocavitario seguimiento folicular",
+        "doppler de seguimiento folicular"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USDCET",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido doppler",
+        "ultrasonido doppler color",
+        "ultrasonido dopler",
+        "ultrasonido doppler color escrotal/testicular",
+        "doppler testicular"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USDCHI",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido doppler",
+        "ultrasonido doppler color",
+        "ultrasonido dopler",
+        "ultrasonido doppler color higado",
+        "doppler color heptobiliar"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USDCIN",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido doppler",
+        "ultrasonido doppler color",
+        "ultrasonido dopler",
+        "ultrasonido doppler color inguinal",
+        "doppler canal inguinal"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USDCMB",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido doppler",
+        "ultrasonido doppler color",
+        "ultrasonido dopler",
+        "ultrasonido doppler color mama bilateral",
+        "doppler mamario"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USDCO1",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido doppler",
+        "ultrasonido doppler color",
+        "ultrasonido dopler",
+        "ultrasonido doppler color obst1ertrimestresuprapúbico",
+        "doppler obstetrico de primer trimestre pelvico"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USDCRE",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido doppler",
+        "ultrasonido doppler color",
+        "ultrasonido dopler",
+        "ultrasonido doppler color renal",
+        "doppler renal"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USDCRT",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido doppler",
+        "ultrasonido doppler color",
+        "ultrasonido dopler",
+        "ultrasonido doppler color retroperitoneal",
+        "doppler retroperitoneal"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USDCTI",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido doppler",
+        "ultrasonido doppler color",
+        "ultrasonido dopler",
+        "ultrasonido doppler color tiroides",
+        "doppler tiroideo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USDCUO",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido doppler",
+        "ultrasonido doppler color",
+        "ultrasonido dopler",
+        "ultrasonido doppler color utero y ovsuprapúbico",
+        "doppler ginecologico pelvico"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USDCV2",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido doppler",
+        "ultrasonido doppler color",
+        "ultrasonido dopler",
+        "ultrasonido doppler color venoso 2 extremidades",
+        "doppler venoso de miembros pelvicos o inferiores"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USDCVA",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido doppler",
+        "ultrasonido doppler color",
+        "ultrasonido dopler",
+        "ultrasonido doppler color vasos abdominales",
+        "doppler color de grandes vasos abdominales",
+        "doppler color de aorta y vena cava abdominal"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USDCVU",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido doppler",
+        "ultrasonido doppler color",
+        "ultrasonido dopler",
+        "ultrasonido doppler color venoso 1na extremidad",
+        "doppler color venoso de miembro pelvico o inferior izquierdo o derecho"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USENSF",
+      "synonyms": [
+        "ultrasonido",
+        "ultasonido vaginal",
+        "ultrasonido endovaginal",
+        "ultrasonido de seguimiento",
+        "ultrasonido folicular",
+        "ultrasonido endovaginal seguimiento folicular",
+        "ultrasonido de seguimiento folicular transvaginal o cavitario"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USGVAB",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido doppler",
+        "ultrasonido doppler color",
+        "ultrasonido dopler",
+        "ultrasonido doppler color de grandes vasos del abdomen",
+        "doppler color de grandes vasos abdominales",
+        "doppler color de aorta y vena cava abdominal"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USHESU",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido abdominal",
+        "ultrasonido hemiabdomen",
+        "ultrasonido superior",
+        "ultrasonido hemiadbomen superior",
+        "ultrasonido abdominal superior"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USHIGA",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido de higado",
+        "ultrasonido higado",
+        "ultrasonido de vias biliares",
+        "ultrasonido de vias viliares",
+        "ultrasonido higado y vias biliares",
+        "ultrasonido hepatobiliar"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USHOMB",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido rotador",
+        "ultrasonido de hombro",
+        "ultrasonido de manguito rotador"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USINGU",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido inguinal",
+        "ultrasonido de canal inguinal"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USMAMA",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido mamario",
+        "ultrasonido de mama"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USMUSC",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasodino rodilla",
+        "ultrasonido musculoesqueletico  rodilla",
+        "ultrasonido de hombro",
+        "ultrasonido de rodilla"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USOBGD",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido obstetrico",
+        "ultrasonido doppler",
+        "ultrasonido doppler color",
+        "ultrasonido dopler",
+        "ultrasonido gemelar",
+        "ultrasonido obstetrico gemelar doppler color",
+        "doppler obstetrico gemelar"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USOBGE",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido obstetrico",
+        "ultrasonido gemelar",
+        "ultrasonido obstetrico gemelar",
+        "ultrasonido fetal gemelar"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USOBS1",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido obstetrico",
+        "ultrasonido pelvico",
+        "ultrasonido pélvico",
+        "ultrasonido obstetrico primer trim suprapúbico",
+        "ultrasonido obstetrico pélvico"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USOBS2",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido obstetrico",
+        "ultrasonido segundo",
+        "ultrasonido tercero",
+        "ultrasonido trim",
+        "ultrasonido trimestral",
+        "ultrasonido obstetrico segundo y tercer trim",
+        "ultrasonido obstetrico"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USOBST",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido obstetrico",
+        "ultrasonido fetal"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USPAAB",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido abdominal",
+        "ultrasonido de rectos",
+        "ultrasonido rectos",
+        "ultrasonido de pared abdominal",
+        "ultrasonido de rectos abdominales"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USPABL",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido pequistes",
+        "lipomas",
+        "etc",
+        "ultrasonido de tejidos blandos",
+        "ultrasonido de partes superficiales",
+        "ultrasonido superficiales",
+        "ultrasonido de partes blandas solo revisa piel y grasa bolitas",
+        "lunares",
+        "quistes",
+        "lipomas",
+        "etc",
+        "ultrasonido de tejidos blandos",
+        "ultrasonido de partes superficiales"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USPANC",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido de pancreas",
+        "ultrasonido pancreas",
+        "ultrasonido pancreatico"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USPELV",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido pelvico",
+        "ultrasonido suprapubico",
+        "ultrasonido ginecologico",
+        "ultrasonido prostatico",
+        "ultrasonido pélvico",
+        "ultrasonido suprapúbico",
+        "ultrasonido ginecológico",
+        "ultrasonido prostático"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USPROS",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido suprapubico",
+        "ultrasonido ginecologico",
+        "ultrasonido prostatico",
+        "ultrasonido prostático",
+        "ultrasonido pélvico",
+        "ultrasonido suprapúbico"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USPRTR",
+      "synonyms": [
+        "ultrasonido prostático",
+        "ultrasonido prostatico",
+        "ultrasonido rectal",
+        "ultrasonido cavitario",
+        "ultrasonido transrectal",
+        "ultrasonido prostático rectal",
+        "ultrasonido prostático cavitario"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USRENA",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido de riñon",
+        "ultrasonido renal",
+        "ultrasonido de riñón"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USRETR",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido retroperitoneo",
+        "ultrasonido retroperitoneal"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USRODI",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido rodilla",
+        "ultrasonido musculoesqueletico"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USTEST",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido testicular",
+        "ultrasonido escrotal"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USTIRO",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido de tiroides",
+        "ultrasonido tiroides",
+        "ultrasonido tiroideo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USTRES",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido obstrectico",
+        "ultrasonido morfologico",
+        "ultrasonido morfometrico",
+        "genetico",
+        "ultrasonido obstétrico de 3er nivel",
+        "ultrasonido de tercer nivel",
+        "ultrasonido test",
+        "ultrasonido obstetrico estructural",
+        "ultrasonido morfológico",
+        "ultrasonido morfométrico",
+        "ultrasonido genético",
+        "ultrasonido obstétrico de 3er nivel",
+        "ultrasonido duo test"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USTRVA",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido transvaginal",
+        "ultrasonido cavitario",
+        "ultrasonido ginecologico",
+        "ultrasonido ginecológico",
+        "ultrasonido transvaginal",
+        "ultrasonido cavitario",
+        "ultrasonido vaginal",
+        "ultrasonido ginecológico cavitario"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USUTOV",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido pelvico",
+        "ultrasonido peginecologico suprapubico",
+        "ultrasonido suprapubico",
+        "ultrasonido de utero",
+        "ultrasonido de ovarios",
+        "ultrasonido utero y ovarios",
+        "ultrasonido pélvico",
+        "ultrasonido ginecologico suprapúbico"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "USVESI",
+      "synonyms": [
+        "ultrasonido",
+        "ultrasonido de vías urinarias",
+        "ultrasonido peo de vejiga",
+        "ultrasonido vejiga",
+        "ultrasonido vesical",
+        "ultrasonido suprapúbico",
+        "ultrasonido de vías urinarias",
+        "ultrasonido de vejiga"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "DECOAP",
+      "synonyms": [
+        "densitometria",
+        "desintrometría",
+        "desintrometría de columna",
+        "densitometria de columna ap",
+        "densitometria de columna"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "DEFEID",
+      "synonyms": [
+        "densitometria",
+        "densitometria de femur",
+        "densitometria cadera",
+        "densitometría de femur",
+        "densitometría cadera",
+        "densitometria de femur promixal",
+        "densitometria de cadera"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "DESIT1R",
+      "synonyms": [
+        "densitometria",
+        "densitometría",
+        "densitometria primera region",
+        "densitometria primera región",
+        "densitometría primera region",
+        "desintrometría de columna",
+        "desintrometria de columna",
+        "desintrometria de cadera",
+        "desintrometría de cadera",
+        "desintrometria de una region",
+        "desntrometría de una region",
+        "desintrometria de una región",
+        "densitometria 1 región",
+        "densitometria de cadera o columna"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "DESIT2R",
+      "synonyms": [
+        "densitometria",
+        "densitometría",
+        "densitometria segunda region",
+        "densitometria segunda región",
+        "densitometría segunda region",
+        "desintrometría de columna",
+        "desintrometria de columna",
+        "desintrometria de cadera",
+        "desintrometría de cadera",
+        "desintrometria de dos regiones",
+        "desntrometría de dos regiones",
+        "densitometria 2 regiones",
+        "densitometria ósea de columna ap y cadera"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXAB1P",
+      "synonyms": [
+        "abdomen",
+        "proyeccion de abdomen",
+        "proyeccción de abdomen",
+        "abdomen simple 1 proyección",
+        "abdomen"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXABAL",
+      "synonyms": [
+        "abdomen",
+        "abdomen ap y lat",
+        "abdomen"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXABPC",
+      "synonyms": [
+        "abdomen",
+        "abdomen de pie",
+        "abdomen de decubito",
+        "abdomen de pie y decubito",
+        "abdomen"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXACOB",
+      "synonyms": [
+        "articula",
+        "artícula",
+        "articula coxofemoral",
+        "artícula coxofemoral",
+        "articula bilateral",
+        "artícula bilateral",
+        "artícula coxofemoral bilateral",
+        "columna lumbar con sacro y coxis",
+        "pelvis"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXACOU",
+      "synonyms": [
+        "articula",
+        "artícula",
+        "articula coxofemoral",
+        "artícula coxofemoral",
+        "artícula coxofemoral unilateral",
+        "pelvis derecha",
+        "izquierda"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXAD1P",
+      "synonyms": [
+        "apicograma",
+        "apicograma"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXAN2P",
+      "synonyms": [
+        "antebrazo cubito",
+        "antebrazo",
+        "radio y cubito"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXANT1P",
+      "synonyms": [
+        "antebrazo una adicional",
+        "radio y cubito"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXARCI",
+      "synonyms": [
+        
+        "arco cigomático",
+        "cráneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXASA1",
+      "synonyms": [
+        "articulacion",
+        "articulación",
+        "articulacion sacro",
+        "articulación sacro",
+        "articulacion iliaca",
+        "articulación iliaca",
+        "articulacion sacro iliaca ap",
+        "pelvis ap"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXASAI",
+      "synonyms": [
+        "articulacion",
+        "articulación",
+        "articulacion sacro",
+        "articulación sacro",
+        "articulacion iliaca",
+        "articulación iliaca",
+        "articulación sacro iliacas",
+        "pelvis ap y pblicuas"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXATAX",
+      "synonyms": [
+        "craneo ap",
+        "trans oral",
+        "atlas axis",
+        "cráneo ap trans oral"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXATMB",
+      "synonyms": [
+        "craneo",
+        "craneo lateral",
+        "craneo boca abierta",
+        "craneo boca cerrada",
+        "cráneo",
+        "cráneo lateral",
+        "cráneo boca abierta",
+        "cráneo boca cerrada",
+        "artic temporo maxilar bilateral",
+        "cráneo lateral boca abierta y boca cerrada"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXBR2P",
+      "synonyms": [
+        "humero",
+        "humero pebrazo",
+        "humero brazo",
+        "humero o brazo 2 proy ap y lat",
+        "brazo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCABI",
+      "synonyms": [
+        "calcaneo",
+        "calcaneo bilateral",
+        "pie lateral",
+        "tobillos",
+        "calcáneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCADE",
+      "synonyms": [
+        "cadera",
+        "columna",
+        "cadera derecha ap",
+        "columna lumbar",
+        "columna con sacro y coxis",
+        "pelvis"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCAIZ",
+      "synonyms": [
+        "cadera",
+        "columna",
+        "cadera izquierda ap",
+        "columna lumbar",
+        "columna con sacro y coxis",
+        "pelvis"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCAPO",
+      "synonyms": [
+        "cadera",
+        "columna",
+        "cadera ap y oblicua",
+        "columna lumbar",
+        "columna con sacro y coxis",
+        "pelvis"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCAUN",
+      "synonyms": [
+        "calcaneo",
+        "calcaneo unilateral",
+        "pie lateral"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCC1P",
+      "synonyms": [
+        "clavicula",
+        "clavicula 1 proyección",
+        "hombro"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCCER",
+      "synonyms": [
+        "columna",
+        "columna ext",
+        "columna cervical sólo dinámicas",
+        "columna cervical en flex y ext"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCD1P",
+      "synonyms": [
+        "columna",
+        "columna dorsal",
+        "columna dorsal una proyeccion",
+        "columna toracica"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCD3P",
+      "synonyms": [
+        "columna",
+        "columna dorsal",
+        "columna dorsal ap laterla y oblicua",
+        "columna toracica"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCE1P",
+      "synonyms": [
+        "columna",
+        "columna cervical",
+        "columna cervical una proyeccion",
+        "columna cervical"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCE2P",
+      "synonyms": [
+        "columna",
+        "columna",
+        "columna cervical",
+        "columna dos proyecciones",
+        "columna cervical 2 proy",
+        "columna cervical"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCE4P",
+      "synonyms": [
+        "columna",
+        "columna cuatro proyecciones",
+        "columna cervical 4 proy",
+        "columna cervical"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCEBA",
+      "synonyms": [
+        "columna cervical",
+        "boca abierta",
+        "columna cervical boca abierta",
+        "cráneo boca abierta valorar atlas",
+        "axis"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCL3P",
+      "synonyms": [
+        "columna",
+        "columna lumbar",
+        "columna lumbar ap lateral y dinámica",
+        "columna lumbosacra"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCLAL",
+      "synonyms": [
+        "columna",
+        "columna lumbar",
+        "columna lumbar ap lat y oblicua",
+        "columna lumbosacra"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCLOB",
+      "synonyms": [
+        "columna",
+        "columna lumbar",
+        "columna lumbar oblicuas",
+        "columna lumbosacra"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCLP1",
+      "synonyms": [
+        "columna",
+        "columna lumbar",
+        "columna lumbar 1 proyeccion",
+        "columna lumbosacra"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCLRF",
+      "synonyms": [
+        "cuello",
+        "cuello lateral",
+        "cuello rino",
+        "cuello faringe",
+        "cuello lateral rino faringe",
+        "columna cervical"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCLUM",
+      "synonyms": [
+        "col",
+        "col lumbosacra",
+        "diná",
+        "dina",
+        "col lumbosacra ap lat obl y diná",
+        "columna lumbosacra"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCLVI",
+      "synonyms": [
+        "clavicula bilateral",
+        "clavícula bilateral",
+        "hombro"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCO2P",
+      "synonyms": [
+        "codo derecho",
+        "codo derecho ap y lat",
+        "codo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCO2PI",
+      "synonyms": [
+        "codo derecho",
+        "codo izquierdo",
+        "codo izquierdo ap y lat",
+        "codo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCOAD",
+      "synonyms": [
+        "columna",
+        "columna adicional una posición",
+        "columna"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCOAPL",
+      "synonyms": [
+        
+        "codos ap",
+        "lateral y oblicuas",
+        "codo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCOBI",
+      "synonyms": [
+        
+        "codo bilateral",
+        "codo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCOCD",
+      "synonyms": [
+        "columna",
+        "columna cervical ap y lat y 2 dinámicas",
+        "columna cervical"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCOCDI",
+      "synonyms": [
+        "columna",
+        "columna cervical dinamicas 3 proy neutra y dinámicas",
+        "columna cervical"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCOCE",
+      "synonyms": [
+        "columna",
+        "col cerv ap lat obl y dinámicas",
+        "columna cervical"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCOCO",
+      "synonyms": [
+        "columna",
+        "columna pevical",
+        "columna cervical",
+        "columna compl cerv dor lum ap y lat",
+        "columna cervical"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCODDI",
+      "synonyms": [
+        "coumna",
+        "columna dorsal",
+        "columna dorsal 2 proy dinámicas",
+        "columna toracica"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCOLU",
+      "synonyms": [
+        "col",
+        "col lumbar",
+        "col lumbosacra",
+        "col lumbosacra solo dina flex y ext",
+        "columna toracica"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCOSO",
+      "synonyms": [
+        "colangiografia",
+        "colangiografia sonda en t",
+        "colangiografía"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCR1P",
+      "synonyms": [
+        "craneo",
+        "craneo una proyeccion",
+        "cráneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCR2P",
+      "synonyms": [
+        "craneo",
+        "craneo 2 proy ap y lat",
+        "cráneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCR3P",
+      "synonyms": [
+        "craneo",
+        "craneo 3 proy ap lat y towne",
+        "cráneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCRBI",
+      "synonyms": [
+        "cubito",
+        "cubito pebrazo",
+        "cubito antebrazo",
+        "cubito y radio bilateral antebrazo",
+        "antebrazo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCRHI",
+      "synonyms": [
+        "cráneo",
+        "cráneo hirzt",
+        "craneo hirzt",
+        "cráneo hirtz base de craneo",
+        "cráneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCUAP",
+      "synonyms": [
+        "cuello",
+        "cuello ap",
+        "columna cervical"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXCULA",
+      "synonyms": [
+        
+        "cuello ap y lateral",
+        "columna cervical"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXDE2P",
+      "synonyms": [
+        "dedos",
+        "dedos 2 proy ap y lat",
+        "mano",
+        "metacarpianos",
+        "falanges"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXDEAPL",
+      "synonyms": [
+        "dedos",
+        "dedo",
+        "mano",
+        "metacarpianos",
+        "falanges"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXDEDO",
+      "synonyms": [
+        "dedos",
+        "dedo una proyección",
+        "mano",
+        "metacarpianos",
+        "falanges"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXDO2P",
+      "synonyms": [
+        "columna",
+        "columna cubito",
+        "columna dorsal 2 proy ap y lat",
+        "proximal radio y cúbito"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXDP2P",
+      "synonyms": [
+        "pies",
+        "pies ambos con apoyo dorsoplantar y lateral",
+        "húmero distal"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXED1P",
+      "synonyms": [
+        "edad osea",
+        "edad osea 1 proyección mano izquierda",
+        "mano"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXED1PD",
+      "synonyms": [
+        "edad osea",
+        "edad osea 1 proyección mano derecha",
+        "mano",
+        "cadera",
+        "rodilla",
+        "pie tobillo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXEDO4P",
+      "synonyms": [
+        "edad osea",
+        "edad osea cuatro proyecciones",
+        "mano",
+        "cadera",
+        "rodilla",
+        "pietobillo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXES1P",
+      "synonyms": [
+        "esternon",
+        "esternon una proyección",
+        "tórax 1 proyección",
+        "ap",
+        "lat"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXES2P",
+      "synonyms": [
+        "esternon",
+        "esternon 2 proy ap y lat",
+        "tórax 1 proyección",
+        "ap",
+        "lat"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXESMA",
+      "synonyms": [
+        "escafoides",
+        "escafoides mano",
+        "mano",
+        "tunel de carpo",
+        "escafoides"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXFBLA",
+      "synonyms": [
+        "femur",
+        "femur bilateral",
+        "ap y lateral",
+        "femur",
+        "pierna"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXFELA",
+      "synonyms": [
+        "muslo",
+        "muslo femur",
+        "muslo femur derecho ap y lat",
+        "femur",
+        "pierna"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXFELAI",
+      "synonyms": [
+        "muslo",
+        "muslo femur",
+        "muslo femur izquierdo ap y lat",
+        "femur",
+        "pierna"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXHBIL",
+      "synonyms": [
+        "humero",
+        "humero bilateral ap y lateral",
+        "antebrazo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXHBOB",
+      "synonyms": [
+        "hombro",
+        "hombro bilateral ap y oblicuas",
+        "manguito rotador",
+        "clavicula",
+        "escapula"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXHO1P",
+      "synonyms": [
+        "hombro",
+        "hombro derecho ap",
+        "manguito rotador",
+        "clavicula",
+        "escapula"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXHO1PI",
+      "synonyms": [
+        "hombro",
+        "hombro izquierdo ap",
+        "manguito rotador",
+        "clavicula",
+        "escapula"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXHO2P",
+      "synonyms": [
+        "hombro",
+        "hombro 2 proyecciones",
+        "manguito rotador",
+        "clavicula",
+        "escapula"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXHOBI",
+      "synonyms": [
+        "hombro",
+        "hombro bilateral ap",
+        "manguito rotador",
+        "clavicula",
+        "escapula"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXHTRT",
+      "synonyms": [
+        "hombro",
+        "hombro trans-toraxico",
+        "manguito rotador",
+        "clavicula",
+        "escapula"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXHUAP",
+      "synonyms": [
+        "humero",
+        "humero ap - 1",
+        "antebrazo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXLS2P",
+      "synonyms": [
+        "columna",
+        "columna lumbar",
+        "columna lumbosacra",
+        "columna lumbosacra 2 proy ap y lat",
+        "columna lumbar",
+        "columna con sacro y coxis"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXLU2P",
+      "synonyms": [
+        "columna",
+        "columna lumbar",
+        "columna lumbosacra",
+        "columna lumbar 2 proy ap y lat",
+        "columna lumbar",
+        "columna con sacro y coxis"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXMA1P",
+      "synonyms": [
+        "mano",
+        "carpo",
+        "escafoides",
+        "mano 1 proyección",
+        "mano",
+        "tunel de carpo",
+        "escafoides"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXMA2PD",
+      "synonyms": [
+        "mano",
+        "carpo",
+        "escafoides",
+        "oblicua",
+        "mano ap y oblicua 2 proyecciones",
+        "mano",
+        "tunel de carpo",
+        "escafoides"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXMA2PR",
+      "synonyms": [
+        "mano",
+        "carpo",
+        "escafoides",
+        "mano izquierda ap y lat 2 proy",
+        "mano",
+        "tunel de carpo",
+        "escafoides"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXMA2PZ",
+      "synonyms": [
+        "mano",
+        "carpo",
+        "escafoides",
+        "mano derecha ap y lat 2 proy",
+        "mano",
+        "tunel de carpo",
+        "escafoides"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXMA4P",
+      "synonyms": [
+        "mano",
+        "carpo",
+        "escafoides",
+        "mano bilateral 2 proy ap y lat",
+        "mano",
+        "tunel de carpo",
+        "escafoides"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXMABI",
+      "synonyms": [
+        "mano",
+        "carpo",
+        "escafoides",
+        "mano bilateral ap",
+        "mano",
+        "tunel de carpo",
+        "escafoides"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXMAGD",
+      "synonyms": [
+        "mastografia",
+        "mamografia",
+        "mastografía con impresión digital",
+        "mastografía",
+        "mamografía"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXMAGF",
+      "synonyms": [
+        "mastografia",
+        "mamografia",
+        "mastografía",
+        "mastografía",
+        "mamografía"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXMAN1P",
+      "synonyms": [
+        "mandibula",
+        "mandibula ap",
+        "cráneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXMAPR2",
+      "synonyms": [
+        "mano",
+        "carpo",
+        "escafoides",
+        "manos ap y oblic",
+        "mano",
+        "tunel de carpo",
+        "escafoides"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXMAST",
+      "synonyms": [
+        "mastoides",
+        "mastoides 4 proy schuller",
+        "stevens",
+        "cráneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXMF1P",
+      "synonyms": [
+        "muslo",
+        "muslo femur",
+        "muslo  una proyección",
+        "femur"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXMM3P",
+      "synonyms": [
+        "medición",
+        "pies",
+        "medicion",
+        "medición de miembros inferiores",
+        "cadera",
+        "rodilla",
+        "pies",
+        "tobillos"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXMU1P",
+      "synonyms": [
+        "muñeca",
+        "carpo",
+        "muñeca una proyección",
+        "mano",
+        "tunel de carpo",
+        "escafoides"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXMU2P",
+      "synonyms": [
+        "muñeca",
+        "muñeca 2 proyecciones ap y lat",
+        "mano",
+        "tunel de carpo",
+        "escafoides"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXMU4P",
+      "synonyms": [
+        "muñeca",
+        "muñeca bilateral 2 proy ap y lat",
+        "mano",
+        "tunel de carpo",
+        "escafoides"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXMXIN",
+      "synonyms": [
+        "mandibula",
+        "mandibula ap y oblicua",
+        "cráneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXOMBI",
+      "synonyms": [
+        "omoplato",
+        "omoplato bilateral",
+        "tórax"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXOMOP",
+      "synonyms": [
+        "omoplato",
+        "omoplato",
+        "tórax"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXORCO",
+      "synonyms": [
+        "orbitas",
+        "orbitas comparativas",
+        "cráneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXORTH",
+      "synonyms": [
+        
+        "orthopantografia",
+        "ortopantografía"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXOS2A",
+      "synonyms": [
+        "torax",
+        "torax oseo 2 proyec ap y oblicua",
+        "tele oseo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXOS2P",
+      "synonyms": [
+        "torax",
+        "torax oseo 2 proyec ap y lat",
+        "tele oseo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXPA4P",
+      "synonyms": [
+        "pies",
+        "pies c/apoyo 2 proy ap y lat",
+        "pies comparativos"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXPC1P",
+      "synonyms": [
+        "pies",
+        "pies comparativos una",
+        "pie una posición"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXPC2P",
+      "synonyms": [
+        "pies",
+        "pies comp ap y obl 2 proy",
+        "pies comparativos"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXPE1P",
+      "synonyms": [
+        "perfilograma",
+        "perfilograma peteral",
+        "perfilograma lateral",
+        "perfilograma  nariz",
+        "cráneo lateral"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXPE2P",
+      "synonyms": [
+        "perfilograma",
+        "perfilograma mas waters",
+        "senos paranasales"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXPELA",
+      "synonyms": [
+        "pelvis",
+        "pelvis ap y lat",
+        "pelvis",
+        "sacrocoxis"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXPERA",
+      "synonyms": [
+        "pelvis",
+        "pelvis ap y rana",
+        "pelvis",
+        "sacrocoxis"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXPI1P",
+      "synonyms": [
+        "pie",
+        "pie 1 proyección",
+        "pie",
+        "tobillos",
+        "calcáneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXPI2P",
+      "synonyms": [
+        "pie",
+        "pie 2 proy ap y lat",
+        "pie",
+        "tobillos",
+        "calcáneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXPI2PD",
+      "synonyms": [
+        "pie",
+        "tobilllos",
+        "pie derecho ap y oblicua",
+        "pie",
+        "tobillos",
+        "calcáneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXPI2PI",
+      "synonyms": [
+        "pie",
+        "tobillos",
+        "pie izquierdo ap y oblicua",
+        "pie",
+        "tobillos",
+        "calcáneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXPI4P",
+      "synonyms": [
+        "pie",
+        "pie bilateral 2 proy ap y lat",
+        "pie",
+        "tobillos",
+        "calcáneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXPIE1P",
+      "synonyms": [
+        "pierna",
+        "pierna una proyección",
+        "femur"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXPILA",
+      "synonyms": [
+        "pies",
+        "pies laterales",
+        "pie",
+        "tobillos",
+        "calcáneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXPIP4",
+      "synonyms": [
+        "pie tobillos",
+        "pie bilateral ap y oblicuas",
+        "pie",
+        "tobillos",
+        "calcáneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXPODE",
+      "synonyms": [
+        "pelvis",
+        "pelvis ap",
+        "oblicua izq y derecha",
+        "pelvis",
+        "sacrocoxis"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXPV1P",
+      "synonyms": [
+        "pelvis",
+        "pelvis 1 proyección",
+        "rótula"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXRO1P",
+      "synonyms": [
+        "rodilla",
+        "rodilla 1 proyección",
+        "rótula"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXRO2P",
+      "synonyms": [
+        "rodilla",
+        "rotula",
+        "rodilla derecha 2 proy ap y lat",
+        "rótula"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXRO2PI",
+      "synonyms": [
+        "rodilla",
+        "rotula",
+        "rodilla izquierda 2 proy ap y lat",
+        "rótula"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXRO4P",
+      "synonyms": [
+        "rodilla",
+        "rotula",
+        "rodilla bilateral 2 proy ap y lat",
+        "rótula"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXRO5P",
+      "synonyms": [
+        "rodilla",
+        "rodillas",
+        "rotula",
+        "rodillas bilateral 2 proy ap y pa",
+        "rótula"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXROAX1",
+      "synonyms": [
+        "rodilla",
+        "rodillas",
+        "rotula",
+        "rodillas axiales 1 proyec",
+        "tangenciales",
+        "rodilla en grados"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXROBI",
+      "synonyms": [
+        "rotula",
+        "rótula",
+        "rótula bilateral",
+        "rótula"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXRS1PS",
+      "synonyms": [
+        "rodillas",
+        "rodillas ap",
+        "rótula"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXRT3P",
+      "synonyms": [
+        "rodillas",
+        "rodillas tang 3 proy 30-60-90 axiales",
+        "tangenciales",
+        "rodilla en grados"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXSE1P",
+      "synonyms": [
+        "senos",
+        "parasanales",
+        "senos paranasales 1 proyección",
+        "watters",
+        "caldwell",
+        "lateral",
+        "cráneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXSE2P",
+      "synonyms": [
+        "senos",
+        "parasanales",
+        "senos paranasales 2 proyecciones",
+        "watters",
+        "caldwell",
+        "lateral",
+        "cráneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXSE3P",
+      "synonyms": [
+        "senos",
+        "parasanales",
+        "senos paranasales 3 proyecciones",
+        "watters",
+        "caldwell",
+        "lateral",
+        "cráneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXSOME",
+      "synonyms": [
+        "serie",
+        "serie osea metastasica",
+        "huesos largos",
+        "cráneo lateral columna toraco lumbar y pélvis"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXSX2P",
+      "synonyms": [
+        "columna",
+        "columna pelvis",
+        "columna coxis",
+        "columna sacrocoxis",
+        "columna sacrocoxis 2 proy ap y lat",
+        "pelvis"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXTB2P",
+      "synonyms": [
+        "tobillo",
+        "pie",
+        "pies",
+        "tobillo 2 proyec  ap y lat",
+        "pie",
+        "tobillos",
+        "calcáneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXTB3P",
+      "synonyms": [
+        "tobillo",
+        "pie",
+        "pies",
+        "tobillo 3 proyecciones",
+        "pie",
+        "tobillos",
+        "calcáneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXTB4P",
+      "synonyms": [
+        "tobillo",
+        "pie",
+        "pies",
+        "tobillos bilaterales 2 proyec",
+        "pie",
+        "tobillos",
+        "calcáneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXTIPE",
+      "synonyms": [
+        "piera",
+        "tibia",
+        "tibia y perone",
+        "pierna ap lateral tibia y perone",
+        "tibia perone"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXTO1P",
+      "synonyms": [
+        "telerradiografía",
+        "telerradiografia",
+        "telerradiografía de torax",
+        "tórax 1 proyección",
+        "pa postero anterior"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXTO2P",
+      "synonyms": [
+        "torax",
+        "tórax",
+        "torax 2 proyec  ap y lat",
+        "tórax 1 proyección",
+        "ap",
+        "lat"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXTO2PD",
+      "synonyms": [
+        "torax",
+        "tórax",
+        "tórax osea 2 proyecciones ap y lat digital",
+        "tórax 1 proyección",
+        "ap",
+        "lat"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXTO4P",
+      "synonyms": [
+        "torax",
+        "tórax",
+        "tórax 4 proyec  ap",
+        "lat y obl",
+        "tórax 1 proyección",
+        "ap",
+        "lat"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXTOAD",
+      "synonyms": [
+        "torax",
+        "tórax",
+        "torax una adicional",
+        "tórax 1 proyección",
+        "ap",
+        "lat"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXTOB1",
+      "synonyms": [
+        "tobillos",
+        "tobillo una proyeccion",
+        "pie",
+        "tobillos",
+        "calcáneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXTODI",
+      "synonyms": [
+        "tobillos",
+        "tobillos dinámicos",
+        "pie",
+        "tobillos",
+        "calcáneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXTOLA",
+      "synonyms": [
+        "torax",
+        "tórax",
+        "tórax lateral",
+        "tórax 1 proyección",
+        "ap",
+        "lat"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXTOOB",
+      "synonyms": [
+        "torax",
+        "tórax",
+        "torax pa y oblicua",
+        "tórax 1 proyección",
+        "ap",
+        "lat"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXTOPA",
+      "synonyms": [
+        "torax",
+        "tórax",
+        "torax oseo proyeccion adicional 1 posicion ap o lat",
+        "tórax 1 proyección",
+        "ap",
+        "lat"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXTPAO",
+      "synonyms": [
+        "torax",
+        "tórax",
+        "torax pa y dos oblicuas",
+        "tórax 1 proyección",
+        "ap",
+        "lat"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXTPBI",
+      "synonyms": [
+        "pierna",
+        "tibia",
+        "tibia y perone",
+        "perone",
+        "pierna ap lateral tibia y perone bilateral",
+        "tibia perone"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXTU1P",
+      "synonyms": [
+        "silla",
+        "silla turca",
+        "silla turca 1 proyección",
+        "craneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RXTU2P2",
+      "synonyms": [
+        "silla",
+        "silla turca",
+        "silla turca 2 proyecciónes",
+        "cráneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "FLESOF",
+      "synonyms": [
+        
+        "esofagograma",
+        "serie esofagogastroduodenal"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "ECOTRREP",
+      "synonyms": [
+        
+        "ecocardiograma transtoracico en reposo",
+        "ecocardiograma"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "ELECTRO",
+      "synonyms": [
+        
+        "electrocardiograma en reposo",
+        "electrocardiograma",
+        "ekg"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "ESPIRO",
+      "synonyms": [
+        
+        "espirometria",
+        "espirometria simple"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "OXIMET",
+      "synonyms": [
+        
+        "oximetria",
+        "oximetria de pulso"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMABCO2",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de abdomen completo 2 regiones superior+pelvis",
+        "rm abdomen completo 2 regiones superior+pelvis"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMABIN",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de abdomen inferior o pelvis",
+        "rm abdomen inferior o pelvis"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMABSUP",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de abdomen superior",
+        "rm abdomen superior"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMAGADE",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de angioresonancia de antebrazo derecha ci",
+        "rm angioresonancia de antebrazo derecha ci"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMAGARR",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de angioresonancia de arterias renales ci",
+        "rm angioresonancia de arterias renales ci"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMAGBRA",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de angioresonancia de brazo ci",
+        "rm angioresonancia de brazo ci"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMAGCER",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de angioresonancia cerebral ci",
+        "rm angioresonancia cerebral ci"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMAGSIP",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de angioresonancia de sistema portal ci",
+        "rm angioresonancia de sistema portal ci"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMAGVP",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de vasos perifericos ci con contraste",
+        "rms angioresonancia de vasos perifericos ci con contraste"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMANAND",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de antebrazo derecho ci con contraste",
+        "rms angioresonancia de antebrazo derecho ci con contraste"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMANART",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de arterias renales ci con contraste",
+        "rms angioresonancia de arterias renales ci con contraste"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMANAT",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de aorta toracica o abdominal",
+        "rm angiorresonancia de aorta toracica o abdominal"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMANCER",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica cerebral ci con contraste",
+        "rms angioresonancia cerebral ci con contraste"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMANPCO",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de poligonos de willis con contraste",
+        "rm angiorresonancia de poligonos de willis con contraste"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMANPOW",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de poligonos de willis",
+        "rm angiorresonancia de poligonos de willis"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMANSIS",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de sistema portal ci con contraste",
+        "rms angioresonancia de sistema portal ci con contraste"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMANSP",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de brazo ci con contraste",
+        "rms angioresonancia de brazo ci con contraste"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMANVAS",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de vasos perifericos ci",
+        "rms angioresonancia de vasos perifericos ci"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMARCOX",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de articulacion coxofemoral",
+        "rm articulacion coxofemoral 1"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMARTEM",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de articulacion temporomandibular atm",
+        "rm atm articulacion temporomandibular 1"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMCACI1",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de cadera ci",
+        "rm cadera ci 1"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMCOCD",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de columna cervico dorsal 2reg",
+        "rm columna cervico dorsal 2reg"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMCOCE",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de columna cervical",
+        "rm columna cervical"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMCODO",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de codo",
+        "rm codo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMCODOL",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de columna dorso lumbar 2reg",
+        "rm columna dorso lumbar 2reg"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMCOLAN",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de colangioresonancia ci",
+        "rm colangioresonancia ci"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMCOLTO",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de columna toraxica",
+        "rm columna toraxica"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMCOLUM",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de columna lumbar o lumbosacra",
+        "rm columna lumbar o lumbosacra"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMCRAN",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de craneo + angioresonanciapw + vasos de cuello",
+        "rm craneo + angioresonanciapw + vasos de cuallo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMCRANE",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de craneo",
+        "rm craneo"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMCRPW",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de craneo + resonancia de poligono de willis",
+        "rm craneo + angiorresonancia poligono de willis"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMCRVC",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de craneo+angiorresonancia pw+vasos de cuello con contraste",
+        "rm craneo+angiorresonanciapw+vasos de cuello con contraste"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMCUEL",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de cuello",
+        "rm cuello"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMEXTR1",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de extremidad brazo",
+        "antebrazo",
+        "muslo",
+        "pierna",
+        "rm extremidad brazo",
+        "antebrazo",
+        "muslo",
+        "pierna 1"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMHOM1",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de hombro",
+        "rm hombro 1"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMMAFA",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de macizo facial",
+        "rm macizo facial"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMMANO",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de mano ci",
+        "rm mano ci"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMMAMS",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de mama simple",
+        "rm mama simple"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMMAMC",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de mama contrastada",
+        "rm mama contrastada"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMMCGA",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de medio de contraste gadolinio",
+        "rm medio de contrastegadolinio"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMMUÑE",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de muñeca",
+        "rm muñeca"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMOIDOS",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de oidos",
+        "rm oidos"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMORBI",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de orbitas",
+        "rm orbitas"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMPITA1",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de pie o tarso",
+        "rm pie o tarso 1"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMRE1RE",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de resonancia 1 region",
+        "rm resonancia 1 region"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMRE2R",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "rms resonancia 2 regiones ci",
+        "rms resonancia 2 regiones ci"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMREAO",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de angioresonancia de aorta toracica o abdominal con contraste",
+        "rm angioresonancia de aorta toracica o abdominal con contraste"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMRODI1",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de rodilla",
+        "rm rodilla 1"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMSEPA",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de senos paranasales",
+        "rm senos paranasales"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMSITUC",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de silla turca se requiere gadolinio con contraste",
+        "rm silla turca se requiere gadolinio con contraste"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMSITUR",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de silla turca simple",
+        "rm silla turca simple"
+      ],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "RMTOBIL",
+      "synonyms": [
+        "resonancia",
+        "resonancia magnetica",
+        "resonancia magnetica de tobillo",
+        "rm tobillo"
+      ],
+      "nativeLanguageTag": "es"
+    }
+  ]
+}

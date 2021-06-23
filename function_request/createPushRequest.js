@@ -15,7 +15,7 @@ async function createPushRequest(){
     configProfile
     );
     
-    const copy = true;
+    const copy = false;
   // 1. Create Request Signing instance
     const signer = new common.DefaultRequestSigner(provider);
 
