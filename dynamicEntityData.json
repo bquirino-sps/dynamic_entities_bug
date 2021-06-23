@@ -1,0 +1,9 @@
+{
+    "add":[
+      {
+        "canonicalName": "TACABCS",
+        "synonyms":["TOMOGRFÍA AXIAL","TOMOGRFIA AXIAL COMPUTARIZADA DE ABDOMEN COMPLETO (SUPERIOR E INFERIOR) SIMPLE", "TC", "TAC DE ABDOMEN COMPLETO", "ABDOMEN SUPERIOR E INFERIOR", "ABDOMEN Y PELVIS SIMPLE"],
+        "nativeLanguageTag": "es"
+      }
+    ]
+}
