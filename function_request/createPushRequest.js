@@ -11,8 +11,8 @@ async function createPushRequest(){
     const configProfile = "DEFAULT";
 
     const provider = new common.ConfigFileAuthenticationDetailsProvider(
-    configurationFilePath,
-    configProfile
+        configurationFilePath,
+        configProfile
     );
     
     const copy = false;

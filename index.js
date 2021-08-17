@@ -1,9 +1,11 @@
+//const {formater} = require('./Formater/formater')
 const {createPushRequest} = require('./function_request/createPushRequest');
 const {pushDataToRequest} = require('./function_request/pushDataToRequest');
 const {finallyPushRequest} = require('./function_request/finallyPushRequest');
 
 async function main(){
     let pushRequestId;
+    //await formater();
     createPushRequest()
     .then(pushRequestData =>{
         if(pushRequestData.id){

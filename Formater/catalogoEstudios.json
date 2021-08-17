@@ -2,455 +2,455 @@
     "add": [
         {
             "CLAVE": "TACABCO",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE ABDOMEN COMPLETO SUPERIOR E INFERIOR CON CONTRASTE ORAL,TC, TAC DE ABDOMEN COMPLETO, ABDOMEN SUPERIOR E INFERIOR, ABDOMEN Y PELVIS CON CONTRASTE ORAL"
+            "ESTUDIO": "tomografia axial,tomografia de abdomen,tomografia abdominal,tomografia de abdomen completo"
         },
         {
             "CLAVE": "TACABCS",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE ABDOMEN COMPLETO SUPERIOR E INFERIOR SIMPLE,TC, TAC DE ABDOMEN COMPLETO, ABDOMEN SUPERIOR E INFERIOR, ABDOMEN Y PELVIS SIMPLE"
+            "ESTUDIO": "tomografia axial,tomografia de abdomen,tomografia abdominal,tomografia de abdomen completo"
         },
         {
             "CLAVE": "TACABINC",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE ABDOMEN INFERIOR CON CONTRASTE ORAL,TC, TAC DE ABDOMEN INFERIOR, PELVIS CON CONTRASTE ORAL"
+            "ESTUDIO": "tomografia axial,tomografia de abdomen,tomografia abdominal,tomografia de abdomen inferior"
         },
         {
             "CLAVE": "TACABINS",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE ABDOMEN INFERIOR SIMPLE PELVIS,TC, TAC DE ABDOMEN INFERIOR SIMPLE, PELVIS SIMPLE"
+            "ESTUDIO": "tomografia axial,tomografia de abdomen,tomografia abdominal,tomografia de abdomen inferior"
         },
         {
             "CLAVE": "TACABSU",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE ABDOMEN SUPERIOR CON CONTRASTE ORAL,TC, TAC DE ABDOMEN SUPERIOR, ABDOMEN CON CONTRASTE ORAL"
+            "ESTUDIO": "tomografia axial,tomografia de abdomen,tomografia abdominal,tomografia de abdomen superior"
         },
         {
             "CLAVE": "TACABSUS",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE ABDOMEN SUPERIOR SIMPLE,TC, TAC DE ABDOMEN SUPERIOR SIMPLE"
+            "ESTUDIO": "tomografia axial,tomografia de abdomen,tomografia abdominal,tomografia de abdomen superior"
         },
         {
             "CLAVE": "TACAGAO",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE ANGIO AORTA ABDOMINAL,TC, TAC DE ANGIO AORTA ABDOMINAL"
+            "ESTUDIO": "tomografia axial,tomografia de angio,tomografia de aorta,tomografia de angio aorta"
         },
         {
             "CLAVE": "TACAGAT",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE ANGIO AORTA TORAXICA,TC, TAC DE ANGIO AORTA TORAXICA"
+            "ESTUDIO": "tomografia axial,tomografia de angio,tomografia de aorta,tomografia de angio aorta"
         },
         {
             "CLAVE": "TACAGCA",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE ANGIO CAROTIDAS,TC, TAC DE ANGIO CAROTIDAS"
+            "ESTUDIO": "tomografia axial,tomografia de angio,tomografia de carotidas,tomografia de angio carotidas"
         },
         {
             "CLAVE": "TACAGCE",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE ANGIO CEREBRAL,TC, TAC DE ANGIO CEREBRAL"
+            "ESTUDIO": "tomografia axial,tomografia de angio,tomografia cerebral,tomografia de angio cerebral"
         },
         {
             "CLAVE": "TACCO1R",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE COLUMNA 1 REGION CON CONTRASTE,TC, TAC DE COLUMNA 1 REGION CON CONTRASTE"
+            "ESTUDIO": "tomografia axial,tomografia de columna,tomografia de columna 1 region,tomografia de columna primera region,tomografia de columna una region"
         },
         {
             "CLAVE": "TACCO1S",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE COLUMNA 1 REGION SIMPLE,TC, TAC DE COLUMNA 1 REGION SIMPLE"
+            "ESTUDIO": "tomografia axial,tomografia de columna,tomografia de columna 1 region,tomografia de columna primera region,tomografia de columna una region"
         },
         {
             "CLAVE": "TACCO2R",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE COLUMNA 2 REGION CON CONTRASTE,TC, TAC DE COLUMNA 2 REGION CON CONTRASTE"
+            "ESTUDIO": "tomografia axial,tomografia de columna,tomografia de columna 2 regiones,tomografia de columna dos regiones"
         },
         {
             "CLAVE": "TACCO2S",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE COLUMNA 2 REGIONES SIMPLE,TC, TAC DE COLUMNA 2 REGIONES SIMPLE"
+            "ESTUDIO": "tomografia axial,tomografia de columna,tomografia de columna 2 regiones,tomografia de columna dos regiones"
         },
         {
             "CLAVE": "TACCO3R",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE COLUMNA 3 REGIONES CON CONTRASTE,TC, TAC DE COLUMNA 3 REGIONES CON CONTRASTE"
+            "ESTUDIO": "tomografia axial,tomografia de columna,tomografia de columna 3 regiones,tomografia de columna tres regiones"
         },
         {
             "CLAVE": "TACCO3S",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE COLUMNA 3 REGIONES SIMPLE,TC, TAC DE COLUMNA 3 REGIONES SIMPLE"
+            "ESTUDIO": "tomografia axial,tomografia de columna,tomografia de columna 3 regiones,tomografia de columna tres regiones"
         },
         {
             "CLAVE": "TACCRCO",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE CRANEO CON CONTRASTE,TC, TAC DE CRANEO CON CONTRASTE"
+            "ESTUDIO": "tomografia axial,tomografia de craneo,tomografía de craneo con contraste,tomografia de craneo con contraste"
         },
         {
             "CLAVE": "TACCRSI",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE CRANEO SIMPLE,TC, TAC DE CRANEO SIMPLE"
+            "ESTUDIO": "tomografia axial,tomografia de craneo,tomografia de craneo simple"
         },
         {
             "CLAVE": "TACCUCO",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE CUELLO CON CONTRASTE,TC, TAC DE CUELLO CON CONTRASTE"
+            "ESTUDIO": "tomografia axial,tomografia de cuello"
         },
         {
             "CLAVE": "TACCUSI",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE CUELLO SIMPLE,TC, TAC DE CUELLO SIMPLE"
+            "ESTUDIO": "tomografia axial,tomografia de cuello"
         },
         {
             "CLAVE": "TACESMI",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE ESCANOMETRÍA DE MIEMBROS INFERIORES POR TAC,TC, TAC DE ESCANOMETRÍA DE MIEMBROS INFERIORES POR TAC"
+            "ESTUDIO": "tomografia axial,tomografia de escanometria,escanometria"
         },
         {
             "CLAVE": "TACEXCO",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE EXTREMIDAD CON CONTRASTE,TC, TAC DE EXTREMIDAD CON CONTRASTE"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de extremidad"
         },
         {
             "CLAVE": "TACEXSI",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE EXTREMIDAD SIMPLE,TC, TAC DE EXTREMIDAD SIMPLE"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de extremidad"
         },
         {
             "CLAVE": "TACGLSU",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE GLANDULAS SUPRARENALES,TC, TAC DE GLANDULAS SUPRARENALES"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de glandulas"
         },
         {
             "CLAVE": "TACMFCO",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE MACIZO FACIAL CON CONTRASTE,TC, TAC DE MACIZO FACIAL CON CONTRASTE"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de macizo,tomografia facial"
         },
         {
             "CLAVE": "TACMFSI",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE MACIZO FACIAL SIMPLE,TC, TAC DE MACIZO FACIAL SIMPLE"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de macizo,tomografia facial"
         },
         {
             "CLAVE": "TACOICO",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE OIDO CON CONTRASTE,TC, TAC DE OIDO CON CONTRASTE"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de oido"
         },
         {
             "CLAVE": "TACOISI",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE OIDO SIMPLE,TC, TAC DE OIDO SIMPLE"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de oido"
         },
         {
             "CLAVE": "TACORCO",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE ORBITA CON CONTRASTE,TC, TAC DE ORBITA CON CONTRASTE"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de orbita"
         },
         {
             "CLAVE": "TACORSI",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE ORBITA SIMPLE,TC, TAC DE ORBITA SIMPLE"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de orbita"
         },
         {
             "CLAVE": "TACPECO",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE PELVIS CON CONTRASTE,TC, TAC DE PELVIS CON CONTRASTE"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de pelvis"
         },
         {
             "CLAVE": "TACPESI",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE PELVIS SIMPLE,TC, TAC DE PELVIS SIMPLE"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de pelvis"
         },
         {
             "CLAVE": "TACPUCI",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE PULMON CON CONTRASTE EN INSPIRACION Y ESPIRACION,TC, TAC DE PULMON CON CONTRASTE EN INSPIRACION Y ESPIRACION"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de pulmon,tomografia de pulmones"
         },
         {
             "CLAVE": "TACPUSI",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE PULMON SIMPLE EN INSPIRACION Y ESPIRACION DE ALTA RESOLUCION,TC, TAC DE PULMON SIMPLE EN INSPIRACION Y ESPIRACION"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de pulmon,tomografia de pulmones"
         },
         {
             "CLAVE": "TACRODI",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE RODILLA,TC, TAC DE RODILLA"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de rodilla"
         },
         {
             "CLAVE": "TACSCCA",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE SCORE DE CALCIO,TC, TAC DE SCORE DE CALCIO"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de score,tomografia de calcio,tomografia de score de calcio"
         },
         {
             "CLAVE": "TACSP6C",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE SENOS PARANASALES 6 CORTES,TC, TAC DE SENOS PARANASALES 6 CORTES"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de senos,tomografia de senos parasanales"
         },
         {
             "CLAVE": "TACSPCO",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE SENOS PARANASALES CON CONTRASTE,TC, TAC DE SENOS PARANASALES CON CONTRASTE"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de senos,tomografia de senos parasanales"
         },
         {
             "CLAVE": "TACSPSI",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE SENOS PARANASALES SIMPLE,TC, TAC DE SENOS PARANASALES SIMPLE"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de senos,tomografia de senos parasanales"
         },
         {
             "CLAVE": "TACSTCO",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE SILLA TURCA CON CONTRASTE,TC, TAC DE SILLA TURCA CON CONTRASTE"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de silla,tomografia de silla turca"
         },
         {
             "CLAVE": "TACSTSI",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE SILLA TURCA SIMPLE,TC, TAC DE SILLA TURCA SIMPLE"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de silla,tomografia de silla turca"
         },
         {
             "CLAVE": "TACTOAR",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE TORAX ALTA RESOLUCION SIN CONTRASTE,TC, TAC DE TORAX ALTA RESOLUCION SIN CONTRASTE"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de torax"
         },
         {
             "CLAVE": "TACTOCI",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE TORAX CON CONTRASTE EN INSPIRACION Y ESPIRACION,TC, TAC DE TORAX CON CONTRASTE EN INSPIRACION Y EXPIRACION"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de torax"
         },
         {
             "CLAVE": "TACTOCO",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE TORAX CON CONTRASTE,TC, TAC DE TORAX CON CONTRASTE"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de torax"
         },
         {
             "CLAVE": "TACTOFT",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE TOBILLO FRACTURA/TUMORES,TC, TAC DE TOBILLO FRACTURA/TUMORES"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de tobillo"
         },
         {
             "CLAVE": "TACTOSI",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE TORAX SIMPLE,TC, TAC DE TORAX SIMPLE"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de torax"
         },
         {
             "CLAVE": "TACTOSIN",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE TORAX SIMPLE EN INSPIRACION Y ESPIRACION,TC, TAC DE TORAX SIMPLE EN INSPIRACION Y ESPIRACION"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de torax"
         },
         {
             "CLAVE": "TACUC4S",
-            "ESTUDIO": "urotac,urotac 4,urotac cuatro,UROTAC 4 FASES, SIMPLE, ARTERIAL, VENOSA Y EXCRETORA,TC, TAC DE UROTAC 4 FASES, SIMPLE, ARTERIAL, VENOSA Y EXCRETORA"
+            "ESTUDIO": "urotac,urotac 4,urotac cuatro,urotac 4 fases,urotac cuatro fases"
         },
         {
             "CLAVE": "TACURTA",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE UROTAC SIMPLE,TC, TAC DE UROTAC SIMPLE"
+            "ESTUDIO": "tomografia axial,tomografia computarizada,tomografia de urotac"
         },
         {
             "CLAVE": "TCANMI1",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE ANGIO DE MIEMBRO INFERIOR UNA EXTREMIDAD,TC, TAC DE ANGIO DE MIEMBRO INFERIOR UNA EXTREMIDAD"
+            "ESTUDIO": "tomografia axial,tomografia de angio,tomografia de miebro,tomografia de angio de miembro"
         },
         {
             "CLAVE": "TCANMI2",
-            "ESTUDIO": "tomografía, tomografia, tomografía axial, tomografia axial,TOMOGRFIA AXIAL COMPUTARIZADA DE ANGIO DE MIEMBRO INFERIOR DOS EXTREMIDADES,TC, TAC DE ANGIO DE MIEMBRO INFERIOR DOS EXTREMIDADES"
+            "ESTUDIO": "tomografia axial,tomografia de angio,tomografia de miebro,tomografia de angio de miembro"
         },
         {
             "CLAVE": "USABDC",
-            "ESTUDIO": "ultrasonido, ultrasonido abdominal,ULTRASONIDO ABDOMINAL COMPLETO,RASTREO ABDOMINAL"
+            "ESTUDIO": "ultrasonido abdominal,ultrasonido de abdomen,rastreo abdominal,ultrasonido abdominal completo,ultrasonido de abdomen completo"
         },
         {
             "CLAVE": "USABDI",
-            "ESTUDIO": "ultrasonido, ultrasonido abdominal,ULTRASONIDO ABDOMINAL INFERIOR,ULTRASONIDO DE HEMIABDOMEN INFERIOR"
+            "ESTUDIO": "ultrasonido abdominal,ultrasonido de abdomen,rastreo abdominal,ultrasonido abdominal inferior,ultrasonido de abdomen inferior"
         },
         {
             "CLAVE": "USABDS",
-            "ESTUDIO": "ultrasonido, ultrasonido abdominal,ULTRASONIDO ABDOMINAL SUPERIOR,ULTRASONIDO DE HEMIABDOMEN SUPERIOR"
+            "ESTUDIO": "ultrasonido abdominal,ultrasonido de abdomen,rastreo abdominal,ultrasonido abdominal superior,ultrasonido de abdomen superior"
         },
         {
             "CLAVE": "USBAZO",
-            "ESTUDIO": "ultrasonido,ultrasonido bazo,ULTRASONIDO BAZO,ULTRASONIDO ESPLENICO"
+            "ESTUDIO": "ultrasonido bazo,ultrasonido de bazo,ultrasonido esplenico"
         },
         {
             "CLAVE": "USDCA2",
-            "ESTUDIO": "ultrasonido,ultrasonido doppler,ultrasonido doppler arterial,ultrasonido doppler color,ultrasonido dopler,ULTRASONIDO DOPPLER COLOR ARTERIAL 2 EXTREMIDADES,DOPPLER ARTERIAL DE MIEMBROS PÉLVICOS"
+            "ESTUDIO": "ultrasonido de doppler,ultrasonido doppler,ultrasonido de dopler,ultrasonido dopler,ultrasonido arterial,ultrasonido de arterias"
         },
         {
             "CLAVE": "USDCAR",
-            "ESTUDIO": "ultrasonido,ultrasonido doppler,ultrasonido doppler arterial,ultrasonido doppler color,ultrasonido dopler,ULTRASONIDO DOPPLER COLOR ARTERIAL 1 EXTREMIDAD,DOPPLER ARTERIAL DE MIEMBRO PELVICO DERECHO O IZQUIERDO"
+            "ESTUDIO": "ultrasonido de doppler,ultrasonido doppler,ultrasonido de dopler,ultrasonido dopler,ultrasonido arterial,ultrasonido de arterias"
         },
         {
             "CLAVE": "USDCBA",
-            "ESTUDIO": "ultrasonido,ultrasonido doppler,ultrasonido doppler bazo,ultrasonido doppler color,ultrasonido dopler,ULTRASONIDO DOPPLER COLOR BAZO,DOPPLER ESPLENICO"
+            "ESTUDIO": "ultrasonido bazo,ultrasonido de bazo,ultrasonido esplenico,ultrasonido de doppler,ultrasonido doppler,ultrasonido de dopler,ultrasonido dopler"
         },
         {
             "CLAVE": "USDCCA",
-            "ESTUDIO": "ultrasonido,ultrasonido doppler,ultrasonido doppler color,ultrasonido dopler,ULTRASONIDO DOPPLER COLOR CAROTÍDEO,DOPPLER CAROTIDEO"
+            "ESTUDIO": "ultrasonido,ultrasonido carotideo,ultrasonido carotídeo,ultrasonido de doppler,ultrasonido doppler,ultrasonido de dopler,ultrasonido dopler"
         },
         {
             "CLAVE": "USDCCU",
-            "ESTUDIO": "ultrasonido,ultrasonido doppler,ultrasonido doppler color,ultrasonido dopler,ULTRASONIDO DOPPLER COLOR CUELLO,DOPPLER DE CUELLO"
+            "ESTUDIO": "ultrasonido de cuello,ultrasonido cuello,ultrasonido de doppler,ultrasonido doppler,ultrasonido de dopler,ultrasonido dopler"
         },
         {
             "CLAVE": "USDCEN",
-            "ESTUDIO": "ultrasonido,ultrasonido doppler,ultrasonido doppler color,ultrasonido dopler,ULTRASONIDO DOPPLER COLOR ENDOCAVITARIO UTERO Y OVARIOS,DOPPLER GINECOLOGICO"
+            "ESTUDIO": "ultrasonido endocavitario,ultrasonido de doppler,ultrasonido doppler,ultrasonido de dopler,ultrasonido dopler"
         },
         {
             "CLAVE": "USDCEO",
-            "ESTUDIO": "ultrasonido,ultrasonido doppler,ultrasonido doppler color,ultrasonido dopler,ULTRASONIDO DOPPLER COLOR ENDOCAVITARIO OBST 1º TRIMESTRE,DOPPLER COLOR OBSTETRICO DE PRIMER TRIMESTRE TRANSVAGINAL"
+            "ESTUDIO": "ultrasonido endocavitario,ultrasonido de doppler,ultrasonido doppler,ultrasonido de dopler,ultrasonido dopler"
         },
         {
             "CLAVE": "USDCES",
-            "ESTUDIO": "ultrasonido,ultrasonido doppler,ultrasonido doppler color,ultrasonido dopler,ULTRASONIDO DOPPLER COLOR ENDOCAVITARIO SEGUIMIENTO FOLICULAR,DOPPLER DE SEGUIMIENTO FOLICULAR"
+            "ESTUDIO": "ultrasonido endocavitario,ultrasonido de doppler,ultrasonido doppler,ultrasonido de dopler,ultrasonido dopler"
         },
         {
             "CLAVE": "USDCET",
-            "ESTUDIO": "ultrasonido,ultrasonido doppler,ultrasonido doppler color,ultrasonido dopler,ULTRASONIDO DOPPLER COLOR ESCROTAL/TESTICULAR,DOPPLER TESTICULAR"
+            "ESTUDIO": "ultrasonido escrotal,ultrasonido de doppler,ultrasonido doppler,ultrasonido de dopler,ultrasonido dopler,ultrasonido de testiculos,ultrasonido testicular"
         },
         {
             "CLAVE": "USDCHI",
-            "ESTUDIO": "ultrasonido,ultrasonido doppler,ultrasonido doppler color,ultrasonido dopler,ULTRASONIDO DOPPLER COLOR HIGADO,DOPPLER COLOR HEPTOBILIAR"
+            "ESTUDIO": "ultrasonido de higado,ultrasonido higado,ultrasonido de doppler,ultrasonido doppler,ultrasonido de dopler,ultrasonido dopler"
         },
         {
             "CLAVE": "USDCIN",
-            "ESTUDIO": "ultrasonido,ultrasonido doppler,ultrasonido doppler color,ultrasonido dopler,ULTRASONIDO DOPPLER COLOR INGUINAL,DOPPLER CANAL INGUINAL"
+            "ESTUDIO": "ultrasonido inguinal,ultrasonido de doppler,ultrasonido doppler,ultrasonido de dopler,ultrasonido dopler"
         },
         {
             "CLAVE": "USDCMB",
-            "ESTUDIO": "ultrasonido,ultrasonido doppler,ultrasonido doppler color,ultrasonido dopler,ULTRASONIDO DOPPLER COLOR MAMA BILATERAL,DOPPLER MAMARIO"
+            "ESTUDIO": "ultrasonido de mama,ultrasonido mama,ultrasonido de doppler,ultrasonido doppler,ultrasonido de dopler,ultrasonido dopler"
         },
         {
             "CLAVE": "USDCO1",
-            "ESTUDIO": "ultrasonido,ultrasonido doppler,ultrasonido doppler color,ultrasonido dopler,ULTRASONIDO DOPPLER COLOR OBST1ERTRIMESTRESUPRAPÚBICO,DOPPLER OBSTETRICO DE PRIMER TRIMESTRE PELVICO"
+            "ESTUDIO": "ultrasonido obstetrico,ultrasonido de doppler,ultrasonido doppler,ultrasonido de dopler,ultrasonido dopler,ultrasonido suprapubico,ultrasonido suprapúbico"
         },
         {
             "CLAVE": "USDCRE",
-            "ESTUDIO": "ultrasonido,ultrasonido doppler,ultrasonido doppler color,ultrasonido dopler,ULTRASONIDO DOPPLER COLOR RENAL,DOPPLER RENAL"
+            "ESTUDIO": "ultrasonido renal,ultrasonido de doppler,ultrasonido doppler,ultrasonido de dopler,ultrasonido dopler"
         },
         {
             "CLAVE": "USDCRT",
-            "ESTUDIO": "ultrasonido,ultrasonido doppler,ultrasonido doppler color,ultrasonido dopler,ULTRASONIDO DOPPLER COLOR RETROPERITONEAL,DOPPLER RETROPERITONEAL"
+            "ESTUDIO": "ultrasonido retroperitoneal,ultrasonido de doppler,ultrasonido doppler,ultrasonido de dopler,ultrasonido dopler"
         },
         {
             "CLAVE": "USDCTI",
-            "ESTUDIO": "ultrasonido,ultrasonido doppler,ultrasonido doppler color,ultrasonido dopler,ULTRASONIDO DOPPLER COLOR TIROIDES,DOPPLER TIROIDEO"
+            "ESTUDIO": "ultrasonido de tiroides,ultrasonido tiroides,ultrasonido de doppler,ultrasonido doppler,ultrasonido de dopler,ultrasonido dopler,ultrasonido de la tiroides"
         },
         {
             "CLAVE": "USDCUO",
-            "ESTUDIO": "ultrasonido,ultrasonido doppler,ultrasonido doppler color,ultrasonido dopler,ULTRASONIDO DOPPLER COLOR UTERO Y OVSUPRAPÚBICO,DOPPLER GINECOLOGICO PELVICO"
+            "ESTUDIO": "ultrasonido de utero,ultrasonido utero,ultrasonido de doppler,ultrasonido doppler,ultrasonido de dopler,ultrasonido dopler"
         },
         {
             "CLAVE": "USDCV2",
-            "ESTUDIO": "ultrasonido,ultrasonido doppler,ultrasonido doppler color,ultrasonido dopler,ULTRASONIDO DOPPLER COLOR VENOSO 2 EXTREMIDADES,DOPPLER VENOSO DE MIEMBROS PELVICOS O INFERIORES"
+            "ESTUDIO": "ultrasonido venoso,ultrasonido de venas,ultrasonido doppler,ultrasonido de dopler,ultrasonido dopler,doppler venoso,dopler venoso"
         },
         {
             "CLAVE": "USDCVA",
-            "ESTUDIO": "ultrasonido,ultrasonido doppler,ultrasonido doppler color,ultrasonido dopler,ULTRASONIDO DOPPLER COLOR VASOS ABDOMINALES,DOPPLER COLOR DE GRANDES VASOS ABDOMINALES, DOPPLER COLOR DE AORTA Y VENA CAVA ABDOMINAL"
+            "ESTUDIO": "ultrasonido de vasos,ultrasonido vasos,ultrasonido de doppler,ultrasonido doppler,ultrasonido de dopler,ultrasonido dopler"
         },
         {
             "CLAVE": "USDCVU",
-            "ESTUDIO": "ultrasonido,ultrasonido doppler,ultrasonido doppler color,ultrasonido dopler,ULTRASONIDO DOPPLER COLOR VENOSO 1NA EXTREMIDAD,DOPPLER COLOR VENOSO DE MIEMBRO PELVICO O INFERIOR IZQUIERDO O DERECHO"
+            "ESTUDIO": "ultrasonido venoso,ultrasonido de venas,ultrasonido doppler,ultrasonido de dopler,ultrasonido dopler,doppler venoso,dopler venoso"
         },
         {
             "CLAVE": "USENSF",
-            "ESTUDIO": "ultrasonido,ultasonido vaginal, ultrasonido endovaginal,ultrasonido de seguimiento,ultrasonido folicular,ULTRASONIDO ENDOVAGINAL SEGUIMIENTO FOLICULAR,ULTRASONIDO DE SEGUIMIENTO FOLICULAR TRANSVAGINAL O CAVITARIO"
+            "ESTUDIO": "ultrasonido vaginal,ultrasonido endovaginal,ultrasonido de doppler,ultrasonido doppler,ultrasonido de dopler,ultrasonido dopler"
         },
         {
             "CLAVE": "USGVAB",
-            "ESTUDIO": "ultrasonido,ultrasonido doppler,ultrasonido doppler color,ultrasonido dopler,ULTRASONIDO DOPPLER COLOR DE GRANDES VASOS DEL ABDOMEN,DOPPLER COLOR DE GRANDES VASOS ABDOMINALES, DOPPLER COLOR DE AORTA Y VENA CAVA ABDOMINAL"
+            "ESTUDIO": "ultrasonido de vasos,ultrasonido vasos,ultrasonido de doppler,ultrasonido doppler,ultrasonido de dopler,ultrasonido dopler,ultrasonido de grandes vasos,ultrasonido de abdomen"
         },
         {
             "CLAVE": "USHESU",
-            "ESTUDIO": "ultrasonido, ultrasonido abdominal,ultrasonido hemiabdomen,ultrasonido superior,ULTRASONIDO HEMIADBOMEN SUPERIOR,ULTRASONIDO ABDOMINAL SUPERIOR"
+            "ESTUDIO": "ultrasonido abdominal,ultrasonido de abdomen,ultrasonido de hemiabdomen,ultrasonido hemiabdomen"
         },
         {
             "CLAVE": "USHIGA",
-            "ESTUDIO": "ultrasonido,ultrasonido de higado,ultrasonido higado,ultrasonido de vias biliares,ultrasonido de vias viliares,ULTRASONIDO HIGADO Y VIAS BILIARES,ULTRASONIDO HEPATOBILIAR"
+            "ESTUDIO": "ultrasonido de higado,ultrasonido higado,ultrasonido de vias biliares,ultrasonido de vias viliares,ultrasonido de vias"
         },
         {
             "CLAVE": "USHOMB",
-            "ESTUDIO": "ultrasonido,ultrasonido rotador,ULTRASONIDO DE HOMBRO,ULTRASONIDO DE MANGUITO ROTADOR"
+            "ESTUDIO": "ultrasonido de manguito,ultrasonido de manguito rotador"
         },
         {
             "CLAVE": "USINGU",
-            "ESTUDIO": "ultrasonido,ULTRASONIDO INGUINAL,ULTRASONIDO DE CANAL INGUINAL"
+            "ESTUDIO": "ultrasonido inginal,ultrasonido inguinal,ultrasonido de canal inguinal"
         },
         {
             "CLAVE": "USMAMA",
-            "ESTUDIO": "ultrasonido,ULTRASONIDO MAMARIO,ULTRASONIDO DE MAMA"
+            "ESTUDIO": "ultrasonido mamario,ultrasonido de mama"
         },
         {
             "CLAVE": "USMUSC",
-            "ESTUDIO": "ultrasonido,ultrasodino rodilla,ULTRASONIDO MUSCULOESQUELETICO  RODILLA,ULTRASONIDO DE HOMBRO, ULTRASONIDO DE RODILLA"
+            "ESTUDIO": "ultrasonido de rodilla,ultrasonido de musculoesqueletico,ultrasonido muscuesqueletico,ultrasonido muscu esqueletico "
         },
         {
             "CLAVE": "USOBGD",
-            "ESTUDIO": "ultrasonido,ultrasonido obstetrico,ultrasonido doppler,ultrasonido doppler color,ultrasonido dopler,ultrasonido gemelar,ULTRASONIDO OBSTETRICO GEMELAR DOPPLER COLOR,DOPPLER OBSTETRICO GEMELAR"
+            "ESTUDIO": "ultrasonido,ultrasonido obstetrico,ultrasonido doppler,ultrasonido dopler,ultrasonido gemelar,ultrasonido gemelar,doppler gemelar"
         },
         {
             "CLAVE": "USOBGE",
-            "ESTUDIO": "ultrasonido,ultrasonido obstetrico,ultrasonido gemelar,ULTRASONIDO OBSTETRICO GEMELAR,ULTRASONIDO FETAL GEMELAR"
+            "ESTUDIO": "ultrasonido,ultrasonido obstetrico,ultrasonido doppler,ultrasonido dopler,ultrasonido gemelar,ultrasonido gemelar,doppler gemelar,ultrasonido fetal"
         },
         {
             "CLAVE": "USOBS1",
-            "ESTUDIO": "ultrasonido,ultrasonido obstetrico,ultrasonido pelvico,ultrasonido pélvico,ULTRASONIDO OBSTETRICO PRIMER TRIM SUPRAPÚBICO,ULTRASONIDO OBSTETRICO PÉLVICO"
+            "ESTUDIO": "ultrasonido,ultrasonido obstetrico,ultrasonido pelvico,ultrasonido obstetrico pelvico"
         },
         {
             "CLAVE": "USOBS2",
-            "ESTUDIO": "ultrasonido,ultrasonido obstetrico,ultrasonido segundo,ultrasonido tercero,ultrasonido trim,ultrasonido trimestral,ULTRASONIDO OBSTETRICO SEGUNDO Y TERCER TRIM,ULTRASONIDO OBSTETRICO"
+            "ESTUDIO": "ultrasonido obstetrico,ultrasonido trimestral,ultrasonido de segundo trimestre,ultrasonido de primer trimestre"
         },
         {
             "CLAVE": "USOBST",
-            "ESTUDIO": "ultrasonido,ULTRASONIDO OBSTETRICO,ULTRASONIDO FETAL"
+            "ESTUDIO": "ultrasonido obstetrico,ultrasonido fetal"
         },
         {
             "CLAVE": "USPAAB",
-            "ESTUDIO": "ultrasonido,ultrasonido abdominal,ultrasonido de rectos,ultrasonido rectos,ULTRASONIDO DE PARED ABDOMINAL,ULTRASONIDO DE RECTOS ABDOMINALES"
+            "ESTUDIO": "ultrasonido abdominal,ultrasonido de abdomen,ultrasonido de pared abdominal,ultrasonido de rectos"
         },
         {
             "CLAVE": "USPABL",
-            "ESTUDIO": "ultrasonido,ultrasonido pequistes, lipomas, etc,ultrasonido de tejidos blandos, ultrasonido de partes superficiales,ultrasonido superficiales,ULTRASONIDO DE PARTES BLANDAS SOLO REVISA PIEL Y GRASA BOLITAS, LUNARES, QUISTES, LIPOMAS, ETC,ULTRASONIDO DE TEJIDOS BLANDOS, ULTRASONIDO DE PARTES SUPERFICIALES"
+            "ESTUDIO": "ultrasonido de partes blandas,ultrasonido de bolitas,ultrasonido de lunares,ultrasonido de quistes,ultrasonido de lipomas,ultrasonido de tejidos,ultrasonido de tejidos blandos"
         },
         {
             "CLAVE": "USPANC",
-            "ESTUDIO": "ultrasonido,ultrasonido de pancreas,ULTRASONIDO PANCREAS,ULTRASONIDO PANCREATICO"
+            "ESTUDIO": "ultrasonido de pancreas,ultrasonido pancreatic"
         },
         {
             "CLAVE": "USPELV",
-            "ESTUDIO": "ultrasonido,ultrasonido pelvico,ultrasonido suprapubico,ultrasonido ginecologico,ultrasonido prostatico,ULTRASONIDO PÉLVICO,ULTRASONIDO SUPRAPÚBICO, ULTRASONIDO GINECOLÓGICO, ULTRASONIDO PROSTÁTICO"
+            "ESTUDIO": "ultrasonido pelvico,ultrasonido suprapubico,ultrasonido pubico,ultrasonido prostatico, ultrasonido de pelvis,ultrasonido de la pelvis"
         },
         {
             "CLAVE": "USPROS",
-            "ESTUDIO": "ultrasonido,ultrasonido suprapubico,ultrasonido ginecologico,ultrasonido prostatico,ULTRASONIDO PROSTÁTICO,ULTRASONIDO PÉLVICO, ULTRASONIDO SUPRAPÚBICO"
+            "ESTUDIO": "ultrasonido suprapubico,ultrasonido ginecologico,ultrasonido prostatico, ultrasonido de la pelvis"
         },
         {
             "CLAVE": "USPRTR",
-            "ESTUDIO": "ultrasonido prostático,ultrasonido prostatico,ultrasonido rectal,ultrasonido cavitario,ULTRASONIDO TRANSRECTAL,ULTRASONIDO PROSTÁTICO RECTAL, ULTRASONIDO PROSTÁTICO CAVITARIO"
+            "ESTUDIO": "ultrasonido prostatico,ultrasonido rectal,ultrasonido cavitario,ULTRASONIDO TRANSRECTAL,ULTRASONIDO PROSTaTICO RECTAL,ultrasonido prostatico CAVITARIO"
         },
         {
             "CLAVE": "USRENA",
-            "ESTUDIO": "ultrasonido,ultrasonido de riñon,ULTRASONIDO RENAL,ULTRASONIDO DE RIÑÓN"
+            "ESTUDIO": "ultrasonido de riñon,ULTRASONIDO RENAL"
         },
         {
             "CLAVE": "USRETR",
-            "ESTUDIO": "ultrasonido,ULTRASONIDO RETROPERITONEO,ULTRASONIDO RETROPERITONEAL"
+            "ESTUDIO": "ULTRASONIDO RETROPERITONEO,ULTRASONIDO RETROPERITONEAL"
         },
         {
             "CLAVE": "USRODI",
-            "ESTUDIO": "ultrasonido,ULTRASONIDO RODILLA,ULTRASONIDO MUSCULOESQUELETICO"
+            "ESTUDIO": "ULTRASONIDO RODILLA,ULTRASONIDO MUSCULOESQUELETICO,ultrasonido de rodilla"
         },
         {
             "CLAVE": "USTEST",
-            "ESTUDIO": "ultrasonido,ULTRASONIDO TESTICULAR,ULTRASONIDO ESCROTAL"
+            "ESTUDIO": "ULTRASONIDO TESTICULAR,ULTRASONIDO ESCROTAL,ultrasonido de testiculos"
         },
         {
             "CLAVE": "USTIRO",
-            "ESTUDIO": "ultrasonido,ultrasonido de tiroides,ULTRASONIDO TIROIDES,ULTRASONIDO TIROIDEO"
+            "ESTUDIO": "ultrasonido de tiroides,ULTRASONIDO TIROIDES,ULTRASONIDO TIROIDEO,ultrasonido de la tiroides,ultrasonido de tiroides"
         },
         {
             "CLAVE": "USTRES",
-            "ESTUDIO": "ultrasonido,ultrasonido obstrectico,ultrasonido morfologico,ultrasonido morfometrico, genetico, ultrasonido obstétrico de 3er nivel, ultrasonido de tercer nivel,ultrasonido test,ULTRASONIDO OBSTETRICO ESTRUCTURAL,ULTRASONIDO MORFOLÓGICO,ULTRASONIDO MORFOMÉTRICO,ULTRASONIDO GENÉTICO, ULTRASONIDO OBSTÉTRICO DE 3ER NIVEL, ULTRASONIDO DUO TEST"
+            "ESTUDIO": "ultrasonido obstretico,ultrasonido morfologico,ultrasonido morfometrico, genetico, ultrasonido obstétrico de 3er nivel, ultrasonido de tercer nivel,ultrasonido test,ULTRASONIDO OBSTETRICO ESTRUCTURAL,ULTRASONIDO MORFOLÓGICO,ULTRASONIDO MORFOMÉTRICO,ULTRASONIDO GENÉTICO, ULTRASONIDO OBSTÉTRICO DE 3ER NIVEL, ULTRASONIDO DUO TEST"
         },
         {
             "CLAVE": "USTRVA",
-            "ESTUDIO": "ultrasonido,ultrasonido transvaginal,ultrasonido cavitario,ultrasonido ginecologico,ultrasonido ginecológico,ULTRASONIDO TRANSVAGINAL,ULTRASONIDO CAVITARIO, ULTRASONIDO VAGINAL, ULTRASONIDO GINECOLÓGICO CAVITARIO"
+            "ESTUDIO": "ultrasonido transvaginal,ultrasonido cavitario,ultrasonido ginecologico,ULTRASONIDO TRANSVAGINAL,ULTRASONIDO CAVITARIO, ULTRASONIDO VAGINAL, ULTRASONIDO GINECOLÓGICO CAVITARIO"
         },
         {
             "CLAVE": "USUTOV",
-            "ESTUDIO": "ultrasonido,ultrasonido pelvico,ultrasonido peginecologico suprapubico,ultrasonido suprapubico,ultrasonido de utero,ultrasonido de ovarios,ULTRASONIDO UTERO Y OVARIOS,ULTRASONIDO PÉLVICO, ULTRASONIDO GINECOLOGICO SUPRAPÚBICO"
+            "ESTUDIO": "ultrasonido pelvico,ultrasonido ginecologico suprapubico,ultrasonido suprapubico,ultrasonido de utero,ultrasonido de ovarios,ULTRASONIDO UTERO Y OVARIOS, ULTRASONIDO GINECOLOGICO SUPRAPuBICO"
         },
         {
             "CLAVE": "USVESI",
-            "ESTUDIO": "ultrasonido,ultrasonido de vías urinarias,ultrasonido peo de vejiga,ultrasonido vejiga,ULTRASONIDO VESICAL,ULTRASONIDO SUPRAPÚBICO,ULTRASONIDO DE VÍAS URINARIAS, ULTRASONIDO DE VEJIGA"
+            "ESTUDIO": "ultrasonido de vias urinarias,ultrasonido de vejiga,ultrasonido vejiga,ULTRASONIDO VESICAL"
         },
         {
             "CLAVE": "DECOAP",
-            "ESTUDIO": "densitometria,desintrometría,desintrometría de columna ,DENSITOMETRIA DE COLUMNA AP,DENSITOMETRIA DE COLUMNA"
+            "ESTUDIO": "desintrometria de columna ,DENSITOMETRIA DE COLUMNA AP,DENSITOMETRIA DE COLUMNA, desintometria"
         },
         {
             "CLAVE": "DEFEID",
-            "ESTUDIO": "densitometria,densitometria de femur,densitometria cadera,densitometría de femur,densitometría cadera,DENSITOMETRIA DE FEMUR PROMIXAL,DENSITOMETRIA DE CADERA"
+            "ESTUDIO": "densitometria de femur,densitometria cadera,desintometria de cadera,DENSITOMETRIA DE FEMUR PROMIXAL,DENSITOMETRIA"
         },
         {
             "CLAVE": "DESIT1R",
-            "ESTUDIO": "densitometria,densitometría,densitometria primera region,densitometria primera región,densitometría primera region,desintrometría de columna,desintrometria de columna,desintrometria de cadera,desintrometría de cadera,desintrometria de una region, desntrometría de una region, desintrometria de una región,DENSITOMETRIA 1 REGIÓN,DENSITOMETRIA DE CADERA O COLUMNA"
+            "ESTUDIO": "densitometria primera region,desintrometria de columna,desintrometria de cadera,desintrometria de una region,DENSITOMETRIA 1 REGIoN,DENSITOMETRIA DE CADERA O COLUMNA,desintometria"
         },
         {
             "CLAVE": "DESIT2R",
-            "ESTUDIO": "densitometria,densitometría,densitometria segunda region,densitometria segunda región,densitometría segunda region,desintrometría de columna,desintrometria de columna,desintrometria de cadera,desintrometría de cadera,desintrometria de dos regiones, desntrometría de dos regiones ,DENSITOMETRIA 2 REGIONES,DENSITOMETRIA ÓSEA DE COLUMNA AP Y CADERA"
+            "ESTUDIO": "densitometria segunda regio,desintrometria de columna,desintrometria de cadera,desintrometria de dos regiones,DENSITOMETRIA 2 REGIONES,DENSITOMETRIA oSEA DE COLUMNA AP Y CADERA,desintometria"
         },
         {
             "CLAVE": "RXAB1P",
-            "ESTUDIO": "abdomen,proyeccion de abdomen,proyeccción de abdomen,ABDOMEN SIMPLE 1 PROYECCIÓN,ABDOMEN"
+            "ESTUDIO": "abdomen,proyeccion de abdomen,ABDOMEN SIMPLE 1 PROYECCIoN,proyeccion abdominal,proyeccion de abdomen simple"
         },
         {
             "CLAVE": "RXABAL",
-            "ESTUDIO": "abdomen,ABDOMEN AP Y LAT,ABDOMEN"
+            "ESTUDIO": "ABDOMEN AP Y LAT,ABDOMEN,abdominal"
         },
         {
             "CLAVE": "RXABPC",
-            "ESTUDIO": "abdomen,abdomen de pie,abdomen de decubito,ABDOMEN DE PIE Y DECUBITO,ABDOMEN"
+            "ESTUDIO": "abdomen de pie,abdomen de decubito,ABDOMEN DE PIE Y DECUBITO,decubito"
         },
         {
             "CLAVE": "RXACOB",
-            "ESTUDIO": "articula,artícula, articula coxofemoral,artícula coxofemoral,articula bilateral,artícula bilateral,ARTÍCULA COXOFEMORAL BILATERAL,COLUMNA LUMBAR CON SACRO Y COXIS, PELVIS"
+            "ESTUDIO": "articula coxofemoral,articula bilateral,ARTiCULA COXOFEMORAL BILATERAL,COLUMNA LUMBAR CON SACRO Y COXIS"
         },
         {
             "CLAVE": "RXACOU",
-            "ESTUDIO": "articula,artícula, articula coxofemoral,artícula coxofemoral,ARTÍCULA COXOFEMORAL UNILATERAL,PELVIS DERECHA , IZQUIERDA"
+            "ESTUDIO": "articula coxofemoral,ARTiCULA COXOFEMORAL UNILATERAL,articula unilateral"
         },
         {
             "CLAVE": "RXAD1P",
-            "ESTUDIO": ",APICOGRAMA,APICOGRAMA"
+            "ESTUDIO": "APICOGRAMA"
         },
         {
             "CLAVE": "RXAN2P",
@@ -458,47 +458,47 @@
         },
         {
             "CLAVE": "RXANT1P",
-            "ESTUDIO": ",ANTEBRAZO UNA ADICIONAL,RADIO Y CUBITO"
+            "ESTUDIO": "antebrazo cubito,ANTEBRAZO,RADIO Y CUBITO"
         },
         {
             "CLAVE": "RXARCI",
-            "ESTUDIO": ",ARCO CIGOMÁTICO,CRÁNEO"
+            "ESTUDIO": "ARCO CIGOMaTICO,craneo"
         },
         {
             "CLAVE": "RXASA1",
-            "ESTUDIO": "articulacion,articulación,articulacion sacro,articulación sacro,articulacion iliaca,articulación iliaca,ARTICULACION SACRO ILIACA AP,PELVIS AP"
+            "ESTUDIO": "articulacion sacro,articulacion iliaca,ARTICULACION SACRO ILIACA AP,PELVIS AP"
         },
         {
             "CLAVE": "RXASAI",
-            "ESTUDIO": "articulacion,articulación,articulacion sacro,articulación sacro,articulacion iliaca,articulación iliaca,ARTICULACIÓN SACRO ILIACAS,PELVIS AP Y PBLICUAS"
+            "ESTUDIO": "articulacion sacro,articulacion iliaca,ARTICULACIoN SACRO ILIACAS,PELVIS AP Y PBLICUAS"
         },
         {
             "CLAVE": "RXATAX",
-            "ESTUDIO": "craneo ap,trans oral,ATLAS AXIS,CRÁNEO AP TRANS ORAL"
+            "ESTUDIO": "craneo ap,trans oral,ATLAS AXIS, AP TRANS ORAL"
         },
         {
             "CLAVE": "RXATMB",
-            "ESTUDIO": "craneo,craneo lateral,craneo boca abierta,craneo boca cerrada,cráneo,cráneo lateral,cráneo boca abierta,cráneo boca cerrada,ARTIC TEMPORO MAXILAR BILATERAL,CRÁNEO LATERAL BOCA ABIERTA Y BOCA CERRADA"
+            "ESTUDIO": "craneo lateral,craneo boca abierta,craneo boca cerrada,ARTIC TEMPORO MAXILAR BILATERAL,CRaNEO LATERAL BOCA ABIERTA Y BOCA CERRADA,temporo maxilar,temporo bilateral"
         },
         {
             "CLAVE": "RXBR2P",
-            "ESTUDIO": "humero,humero pebrazo,humero brazo,HUMERO O BRAZO 2 PROY AP Y LAT,BRAZO"
+            "ESTUDIO": "humero brazo,humero brazo,HUMERO O BRAZO,brazo,humero"
         },
         {
             "CLAVE": "RXCABI",
-            "ESTUDIO": "calcaneo,CALCANEO BILATERAL,PIE LATERAL, TOBILLOS, CALCÁNEO"
+            "ESTUDIO": "calcaneo,CALCANEO BILATERAL,PIE LATERAL, TOBILLOS"
         },
         {
             "CLAVE": "RXCADE",
-            "ESTUDIO": "cadera,columna,CADERA DERECHA AP,COLUMNA LUMBAR, COLUMNA CON SACRO Y COXIS, PELVIS"
+            "ESTUDIO": "cadera,columna,CADERA DERECHA AP,COLUMNA LUMBAR, COLUMNA CON SACRO Y COXIS, PELVIS,cadera derecha"
         },
         {
             "CLAVE": "RXCAIZ",
-            "ESTUDIO": "cadera,columna,CADERA IZQUIERDA AP,COLUMNA LUMBAR, COLUMNA CON SACRO Y COXIS, PELVIS"
+            "ESTUDIO": "cadera,columna,CADERA IZQUIERDA AP,COLUMNA LUMBAR, COLUMNA CON SACRO Y COXIS, PELVIS,cadera izquierda"
         },
         {
             "CLAVE": "RXCAPO",
-            "ESTUDIO": "cadera,columna,CADERA AP Y OBLICUA,COLUMNA LUMBAR, COLUMNA CON SACRO Y COXIS, PELVIS"
+            "ESTUDIO": "cadera,columna,CADERA AP Y OBLICUA,COLUMNA LUMBAR, COLUMNA CON SACRO Y COXIS, PELVIS,cadera oblicua"
         },
         {
             "CLAVE": "RXCAUN",
@@ -506,39 +506,39 @@
         },
         {
             "CLAVE": "RXCC1P",
-            "ESTUDIO": "clavicula,CLAVICULA 1 PROYECCIÓN,HOMBRO"
+            "ESTUDIO": "clavicula,HOMBRO"
         },
         {
             "CLAVE": "RXCCER",
-            "ESTUDIO": "columna,columna ext,COLUMNA CERVICAL SÓLO DINÁMICAS,COLUMNA CERVICAL EN FLEX Y EXT"
+            "ESTUDIO": "columna,columna cervical"
         },
         {
             "CLAVE": "RXCD1P",
-            "ESTUDIO": "columna,columna dorsal,COLUMNA DORSAL UNA PROYECCION,COLUMNA TORACICA"
+            "ESTUDIO": "columna,columna dorsal,COLUMNA TORACICA"
         },
         {
             "CLAVE": "RXCD3P",
-            "ESTUDIO": "columna,columna dorsal,COLUMNA DORSAL AP LATERLA Y OBLICUA,COLUMNA TORACICA"
+            "ESTUDIO": "columna,columna dorsal,COLUMNA TORACICA"
         },
         {
             "CLAVE": "RXCE1P",
-            "ESTUDIO": "columna,columna cervical,COLUMNA CERVICAL UNA PROYECCION,COLUMNA CERVICAL"
+            "ESTUDIO": "columna,columna cervical,COLUMNA CERVICAL"
         },
         {
             "CLAVE": "RXCE2P",
-            "ESTUDIO": "columna,columna,columna cervical,columna dos proyecciones,COLUMNA CERVICAL 2 PROY,COLUMNA CERVICAL"
+            "ESTUDIO": "columna,columna,columna cervical"
         },
         {
             "CLAVE": "RXCE4P",
-            "ESTUDIO": "columna,columna cuatro proyecciones,COLUMNA CERVICAL 4 PROY,COLUMNA CERVICAL"
+            "ESTUDIO": "columna,columna cuatro proyecciones,COLUMNA CERVICAL"
         },
         {
             "CLAVE": "RXCEBA",
-            "ESTUDIO": "columna cervical,boca abierta,COLUMNA CERVICAL BOCA ABIERTA,CRÁNEO BOCA ABIERTA VALORAR ATLAS, AXIS"
+            "ESTUDIO": "columna cervical,boca abierta,COLUMNA CERVICAL BOCA ABIERTA,CRaNEO BOCA ABIERTA VALORAR ATLAS, AXIS"
         },
         {
             "CLAVE": "RXCL3P",
-            "ESTUDIO": "columna,columna lumbar,COLUMNA LUMBAR AP LATERAL Y DINÁMICA,COLUMNA LUMBOSACRA"
+            "ESTUDIO": "columna,columna lumbar,COLUMNA LUMBAR AP LATERAL Y DINaMICA,COLUMNA LUMBOSACRA"
         },
         {
             "CLAVE": "RXCLAL",
@@ -550,19 +550,19 @@
         },
         {
             "CLAVE": "RXCLP1",
-            "ESTUDIO": "columna,columna lumbar,COLUMNA LUMBAR 1 PROYECCION,COLUMNA LUMBOSACRA"
+            "ESTUDIO": "columna,columna lumbar,COLUMNA LUMBOSACRA"
         },
         {
             "CLAVE": "RXCLRF",
-            "ESTUDIO": "cuello,cuello lateral,cuello rino,cuello faringe,CUELLO LATERAL RINO FARINGE,COLUMNA CERVICAL"
+            "ESTUDIO": "cuello,cuello lateral,cuello rino,cuello faringe,CUELLO LATERAL RINO FARINGE,COLUMNA CERVICAL,cuello rinofaringe"
         },
         {
             "CLAVE": "RXCLUM",
-            "ESTUDIO": "col,col lumbosacra,diná,dina,COL LUMBOSACRA AP LAT OBL Y DINÁ,COLUMNA LUMBOSACRA"
+            "ESTUDIO": "col,col lumbosacra,diná,dina,COLumna LUMBOSACRA AP LAT OBL Y DINÁ,COLUMNA LUMBOSACRA"
         },
         {
             "CLAVE": "RXCLVI",
-            "ESTUDIO": "clavicula bilateral,CLAVÍCULA BILATERAL,HOMBRO"
+            "ESTUDIO": "clavicula bilateral,HOMBRO"
         },
         {
             "CLAVE": "RXCO2P",
@@ -570,59 +570,59 @@
         },
         {
             "CLAVE": "RXCO2PI",
-            "ESTUDIO": "codo derecho, codo izquierdo,CODO IZQUIERDO AP Y LAT,CODO"
+            "ESTUDIO": "codo izquierdo,CODO IZQUIERDO AP Y LAT,CODO"
         },
         {
             "CLAVE": "RXCOAD",
-            "ESTUDIO": "columna,COLUMNA ADICIONAL UNA POSICIÓN,COLUMNA"
+            "ESTUDIO": "columna,COLUMNA ADICIONAL UNA POSICIoN"
         },
         {
             "CLAVE": "RXCOAPL",
-            "ESTUDIO": ",CODOS AP, LATERAL Y OBLICUAS,CODO"
+            "ESTUDIO": "CODOS AP, LATERAL Y OBLICUAS,CODO,codos"
         },
         {
             "CLAVE": "RXCOBI",
-            "ESTUDIO": ",CODO BILATERAL,CODO"
+            "ESTUDIO": "CODO BILATERAL,CODO,codos"
         },
         {
             "CLAVE": "RXCOCD",
-            "ESTUDIO": "columna,COLUMNA CERVICAL AP Y LAT Y 2 DINÁMICAS,COLUMNA CERVICAL"
+            "ESTUDIO": "columna,COLUMNA CERVICAL"
         },
         {
             "CLAVE": "RXCOCDI",
-            "ESTUDIO": "columna,COLUMNA CERVICAL DINAMICAS 3 PROY NEUTRA Y DINÁMICAS,COLUMNA CERVICAL"
+            "ESTUDIO": "columna,COLUMNA CERVICAL"
         },
         {
             "CLAVE": "RXCOCE",
-            "ESTUDIO": "columna,COL CERV AP LAT OBL Y DINÁMICAS,COLUMNA CERVICAL"
+            "ESTUDIO": "columna,COLUMNA CERVICAL"
         },
         {
             "CLAVE": "RXCOCO",
-            "ESTUDIO": "columna,columna pevical,columna cervical,COLUMNA COMPL CERV DOR LUM AP Y LAT,COLUMNA CERVICAL"
+            "ESTUDIO": "columna,columna pevical,columna cervical,COLUMNA CERVICAL"
         },
         {
             "CLAVE": "RXCODDI",
-            "ESTUDIO": "coumna,columna dorsal,COLUMNA DORSAL 2 PROY DINÁMICAS,COLUMNA TORACICA"
+            "ESTUDIO": "coumna,columna dorsal,COLUMNA DORSAL,COLUMNA TORACICA"
         },
         {
             "CLAVE": "RXCOLU",
-            "ESTUDIO": "col,col lumbar,col lumbosacra,COL LUMBOSACRA SOLO DINA FLEX Y EXT,COLUMNA TORACICA"
+            "ESTUDIO": "col,col lumbar,col lumbosacra,COL LUMBOSACRA,COLUMNA TORACICA"
         },
         {
             "CLAVE": "RXCOSO",
-            "ESTUDIO": "COLANGIOGRAFIA,COLANGIOGRAFIA SONDA EN T,COLANGIOGRAFÍA"
+            "ESTUDIO": "COLANGIOGRAFIA,COLANGIOGRAFIA SONDA EN T"
         },
         {
             "CLAVE": "RXCR1P",
-            "ESTUDIO": "craneo,CRANEO UNA PROYECCION,CRÁNEO"
+            "ESTUDIO": "craneo,"
         },
         {
             "CLAVE": "RXCR2P",
-            "ESTUDIO": "craneo,CRANEO 2 PROY AP Y LAT,CRÁNEO"
+            "ESTUDIO": "craneo,"
         },
         {
             "CLAVE": "RXCR3P",
-            "ESTUDIO": "craneo,CRANEO 3 PROY AP LAT Y TOWNE,CRÁNEO"
+            "ESTUDIO": "craneo,"
         },
         {
             "CLAVE": "RXCRBI",
@@ -630,19 +630,19 @@
         },
         {
             "CLAVE": "RXCRHI",
-            "ESTUDIO": "cráneo,cráneo hirzt,craneo hirzt,CRÁNEO HIRTZ BASE DE CRANEO,CRÁNEO"
+            "ESTUDIO": " hirzt,craneo hirzt, HIRTZ BASE DE CRANEO,"
         },
         {
             "CLAVE": "RXCUAP",
-            "ESTUDIO": "cuello,CUELLO AP,COLUMNA CERVICAL"
+            "ESTUDIO": "cuello,CUELLO,COLUMNA CERVICAL"
         },
         {
             "CLAVE": "RXCULA",
-            "ESTUDIO": ",CUELLO AP Y LATERAL,COLUMNA CERVICAL"
+            "ESTUDIO": "CUELLO,COLUMNA CERVICAL"
         },
         {
             "CLAVE": "RXDE2P",
-            "ESTUDIO": "dedos,DEDOS 2 PROY AP Y LAT,MANO, METACARPIANOS, FALANGES"
+            "ESTUDIO": "dedos,DEDO, METACARPIANOS, FALANGES"
         },
         {
             "CLAVE": "RXDEAPL",
@@ -650,35 +650,35 @@
         },
         {
             "CLAVE": "RXDEDO",
-            "ESTUDIO": "dedos,DEDO UNA PROYECCIÓN,MANO, METACARPIANOS, FALANGES"
+            "ESTUDIO": "dedos,DEDO, METACARPIANOS, FALANGES"
         },
         {
             "CLAVE": "RXDO2P",
-            "ESTUDIO": "columna,columna cubito,COLUMNA DORSAL 2 PROY AP Y LAT,PROXIMAL RADIO Y CÚBITO"
+            "ESTUDIO": "columna,columna cubito,COLUMNA DORSAL,PROXIMAL RADIO Y CÚBITO"
         },
         {
             "CLAVE": "RXDP2P",
-            "ESTUDIO": "pies,PIES AMBOS CON APOYO DORSOPLANTAR Y LATERAL,HÚMERO DISTAL"
+            "ESTUDIO": "pies,PIES AMBOS CON APOYO DORSOPLANTAR Y LATERAL,HÚMERO DISTAL,humero distal"
         },
         {
             "CLAVE": "RXED1P",
-            "ESTUDIO": "edad osea,EDAD OSEA 1 PROYECCIÓN MANO IZQUIERDA,MANO"
+            "ESTUDIO": "edad osea"
         },
         {
             "CLAVE": "RXED1PD",
-            "ESTUDIO": "edad osea,EDAD OSEA 1 PROYECCIÓN MANO DERECHA,MANO, CADERA, RODILLA, PIE TOBILLO"
+            "ESTUDIO": "edad osea"
         },
         {
             "CLAVE": "RXEDO4P",
-            "ESTUDIO": "edad osea,EDAD OSEA CUATRO PROYECCIONES,MANO, CADERA, RODILLA, PIETOBILLO"
+            "ESTUDIO": "edad osea"
         },
         {
             "CLAVE": "RXES1P",
-            "ESTUDIO": "esternon,ESTERNON UNA PROYECCIÓN,TÓRAX 1 PROYECCIÓN , AP, LAT"
+            "ESTUDIO": "esternon,torax"
         },
         {
             "CLAVE": "RXES2P",
-            "ESTUDIO": "esternon,ESTERNON 2 PROY AP Y LAT,TÓRAX 1 PROYECCIÓN , AP, LAT"
+            "ESTUDIO": "esternon,torax"
         },
         {
             "CLAVE": "RXESMA",
@@ -690,15 +690,15 @@
         },
         {
             "CLAVE": "RXFELA",
-            "ESTUDIO": "muslo,muslo femur,MUSLO FEMUR DERECHO AP Y LAT,FEMUR, PIERNA"
+            "ESTUDIO": "muslo,muslo femur,fEMUR, PIERNA"
         },
         {
             "CLAVE": "RXFELAI",
-            "ESTUDIO": "muslo,muslo femur,MUSLO FEMUR IZQUIERDO AP Y LAT,FEMUR, PIERNA"
+            "ESTUDIO": "muslo,muslo femur,fEMUR, PIERNA"
         },
         {
             "CLAVE": "RXHBIL",
-            "ESTUDIO": "humero,HUMERO BILATERAL AP Y LATERAL,ANTEBRAZO"
+            "ESTUDIO": "humero,HUMERO BILATERAL AP Y LATERAL,ANTEBRAZO,humero bilateral"
         },
         {
             "CLAVE": "RXHBOB",
@@ -722,39 +722,39 @@
         },
         {
             "CLAVE": "RXHTRT",
-            "ESTUDIO": "hombro,HOMBRO TRANS-TORAXICO,MANGUITO ROTADOR, CLAVICULA, ESCAPULA"
+            "ESTUDIO": "hombro,HOMBRO TRANS TORAXICO,MANGUITO ROTADOR, CLAVICULA, ESCAPULA"
         },
         {
             "CLAVE": "RXHUAP",
-            "ESTUDIO": "humero,HUMERO AP - 1,ANTEBRAZO"
+            "ESTUDIO": "humero,ANTEBRAZO,humero ap"
         },
         {
             "CLAVE": "RXLS2P",
-            "ESTUDIO": "columna,columna lumbar,columna lumbosacra,COLUMNA LUMBOSACRA 2 PROY AP Y LAT,COLUMNA LUMBAR, COLUMNA CON SACRO Y COXIS"
+            "ESTUDIO": "columna lumbar,columna lumbosacra, COLUMNA CON SACRO Y COXIS"
         },
         {
             "CLAVE": "RXLU2P",
-            "ESTUDIO": "columna,columna lumbar,columna lumbosacra,COLUMNA LUMBAR 2 PROY AP Y LAT,COLUMNA LUMBAR, COLUMNA CON SACRO Y COXIS"
+            "ESTUDIO": "columna lumbar,columna lumbosacra, COLUMNA CON SACRO Y COXIS"
         },
         {
             "CLAVE": "RXMA1P",
-            "ESTUDIO": "mano, carpo,escafoides,MANO 1 PROYECCIÓN,MANO, TUNEL DE CARPO, ESCAFOIDES"
+            "ESTUDIO": "mano, carpo,escafoides, TUNEL DE CARPO, ESCAFOIDES"
         },
         {
             "CLAVE": "RXMA2PD",
-            "ESTUDIO": "mano, carpo,escafoides,oblicua,MANO AP Y OBLICUA 2 PROYECCIONES,MANO, TUNEL DE CARPO, ESCAFOIDES"
+            "ESTUDIO": "mano, carpo,escafoides,oblicua, TUNEL DE CARPO, ESCAFOIDES"
         },
         {
             "CLAVE": "RXMA2PR",
-            "ESTUDIO": "mano, carpo,escafoides,MANO IZQUIERDA AP Y LAT 2 PROY,MANO, TUNEL DE CARPO, ESCAFOIDES"
+            "ESTUDIO": "mano, carpo,escafoides, TUNEL DE CARPO, ESCAFOIDES"
         },
         {
             "CLAVE": "RXMA2PZ",
-            "ESTUDIO": "mano, carpo,escafoides,MANO DERECHA AP Y LAT 2 PROY,MANO, TUNEL DE CARPO, ESCAFOIDES"
+            "ESTUDIO": "mano, carpo,escafoides, TUNEL DE CARPO, ESCAFOIDES"
         },
         {
             "CLAVE": "RXMA4P",
-            "ESTUDIO": "mano, carpo,escafoides,MANO BILATERAL 2 PROY AP Y LAT,MANO, TUNEL DE CARPO, ESCAFOIDES"
+            "ESTUDIO": "mano, carpo,escafoides, TUNEL DE CARPO, ESCAFOIDES"
         },
         {
             "CLAVE": "RXMABI",
@@ -762,7 +762,7 @@
         },
         {
             "CLAVE": "RXMAGD",
-            "ESTUDIO": "mastografia,mamografia,MASTOGRAFÍA CON IMPRESIÓN DIGITAL,MASTOGRAFÍA, MAMOGRAFÍA"
+            "ESTUDIO": "mastografia,mamografia,MASTOGRAFiA CON IMPRESIoN DIGITAL"
         },
         {
             "CLAVE": "RXMAGF",
@@ -770,79 +770,79 @@
         },
         {
             "CLAVE": "RXMAN1P",
-            "ESTUDIO": "mandibula,MANDIBULA AP,CRÁNEO"
+            "ESTUDIO": "mandibula,MANDIBULA AP,craneo"
         },
         {
             "CLAVE": "RXMAPR2",
-            "ESTUDIO": "mano, carpo,escafoides,MANOS AP Y OBLIC,MANO, TUNEL DE CARPO, ESCAFOIDES"
+            "ESTUDIO": "mano,carpo,escafoides,MANOS AP Y OBLIC,MANO, TUNEL DE CARPO, ESCAFOIDES"
         },
         {
             "CLAVE": "RXMAST",
-            "ESTUDIO": "mastoides,MASTOIDES 4 PROY SCHULLER, STEVENS,CRÁNEO"
+            "ESTUDIO": "mastoides,SCHULLER, STEVENS,"
         },
         {
             "CLAVE": "RXMF1P",
-            "ESTUDIO": "muslo,muslo femur,MUSLO  UNA PROYECCIÓN,FEMUR"
+            "ESTUDIO": "muslo,muslo femur,FEMUR"
         },
         {
             "CLAVE": "RXMM3P",
-            "ESTUDIO": "medición,pies,medicion,MEDICIÓN DE MIEMBROS INFERIORES,CADERA, RODILLA, PIES,TOBILLOS"
+            "ESTUDIO": "pies,medicion,MEDICIoN DE MIEMBROS INFERIORES,CADERA, RODILLA, PIES,TOBILLOS,medicion de miembros"
         },
         {
             "CLAVE": "RXMU1P",
-            "ESTUDIO": "muñeca, carpo,MUÑECA UNA PROYECCIÓN,MANO, TUNEL DE CARPO, ESCAFOIDES"
+            "ESTUDIO": "muñeca, carpo,MANO, TUNEL DE CARPO, ESCAFOIDES"
         },
         {
             "CLAVE": "RXMU2P",
-            "ESTUDIO": "muñeca,MUÑECA 2 PROYECCIONES AP Y LAT,MANO, TUNEL DE CARPO, ESCAFOIDES"
+            "ESTUDIO": "muñeca, carpo,MANO, TUNEL DE CARPO, ESCAFOIDES"
         },
         {
             "CLAVE": "RXMU4P",
-            "ESTUDIO": "muñeca,MUÑECA BILATERAL 2 PROY AP Y LAT,MANO, TUNEL DE CARPO, ESCAFOIDES"
+            "ESTUDIO": "muñeca, carpo,MANO, TUNEL DE CARPO, ESCAFOIDES,muñeca bilateral"
         },
         {
             "CLAVE": "RXMXIN",
-            "ESTUDIO": "mandibula,MANDIBULA AP Y OBLICUA,CRÁNEO"
+            "ESTUDIO": "mandibula,MANDIBULA AP Y OBLICUA,"
         },
         {
             "CLAVE": "RXOMBI",
-            "ESTUDIO": "omoplato,OMOPLATO BILATERAL,TÓRAX"
+            "ESTUDIO": "omoplato,OMOPLATO BILATERAL,"
         },
         {
             "CLAVE": "RXOMOP",
-            "ESTUDIO": "omoplato,OMOPLATO,TÓRAX"
+            "ESTUDIO": "omoplato"
         },
         {
             "CLAVE": "RXORCO",
-            "ESTUDIO": "orbitas,ORBITAS COMPARATIVAS,CRÁNEO"
+            "ESTUDIO": "orbitas,ORBITAS COMPARATIVAS,"
         },
         {
             "CLAVE": "RXORTH",
-            "ESTUDIO": ",ORTHOPANTOGRAFIA,ORTOPANTOGRAFÍA"
+            "ESTUDIO": "ORTHOPANTOGRAFIA"
         },
         {
             "CLAVE": "RXOS2A",
-            "ESTUDIO": "torax,TORAX OSEO 2 PROYEC AP Y OBLICUA ,TELE OSEO"
+            "ESTUDIO": "torax,TORAX OSEo ,TELE OSEO,"
         },
         {
             "CLAVE": "RXOS2P",
-            "ESTUDIO": "torax,TORAX OSEO 2 PROYEC AP Y LAT,TELE OSEO"
+            "ESTUDIO": "torax,TORAX OSEo ,TELE OSEO,"
         },
         {
             "CLAVE": "RXPA4P",
-            "ESTUDIO": "pies,PIES C/APOYO 2 PROY AP Y LAT,PIES COMPARATIVOS"
+            "ESTUDIO": "pies,pies COMPARATIVOS,pie"
         },
         {
             "CLAVE": "RXPC1P",
-            "ESTUDIO": "pies,PIES COMPARATIVOS UNA,PIE UNA POSICIÓN"
+            "ESTUDIO": "pies,pies COMPARATIVOS,pie"
         },
         {
             "CLAVE": "RXPC2P",
-            "ESTUDIO": "pies,PIES COMP AP Y OBL 2 PROY,PIES COMPARATIVOS"
+            "ESTUDIO": "pies,pies COMPARATIVOS,pie"
         },
         {
             "CLAVE": "RXPE1P",
-            "ESTUDIO": "perfilograma,perfilograma peteral,perfilograma lateral,PERFILOGRAMA  NARIZ ,CRÁNEO LATERAL"
+            "ESTUDIO": "perfilograma,perfilograma peteral,perfilograma lateral,PERFILOGRAMa, LATERAL"
         },
         {
             "CLAVE": "RXPE2P",
@@ -850,407 +850,407 @@
         },
         {
             "CLAVE": "RXPELA",
-            "ESTUDIO": "pelvis,PELVIS AP Y LAT,PELVIS, SACROCOXIS"
+            "ESTUDIO": "PELVIS, SACROCOXIS"
         },
         {
             "CLAVE": "RXPERA",
-            "ESTUDIO": "pelvis,PELVIS AP Y RANA,PELVIS, SACROCOXIS"
+            "ESTUDIO": "PELVIS, SACROCOXIS"
         },
         {
             "CLAVE": "RXPI1P",
-            "ESTUDIO": "pie,PIE 1 PROYECCIÓN,PIE, TOBILLOS, CALCÁNEO"
+            "ESTUDIO": "pie, TOBILLOS, CALCaNEO,calcaneo,tobillo"
         },
         {
             "CLAVE": "RXPI2P",
-            "ESTUDIO": "pie,PIE 2 PROY AP Y LAT,PIE, TOBILLOS, CALCÁNEO"
+            "ESTUDIO": "pie, TOBILLOS, CALCaNEO,calcaneo,tobillo"
         },
         {
             "CLAVE": "RXPI2PD",
-            "ESTUDIO": "pie,tobilllos,PIE DERECHO AP Y OBLICUA,PIE, TOBILLOS, CALCÁNEO"
+            "ESTUDIO": "pie, TOBILLOS, CALCaNEO,calcaneo,tobillo"
         },
         {
             "CLAVE": "RXPI2PI",
-            "ESTUDIO": "pie, tobillos,PIE IZQUIERDO AP Y OBLICUA,PIE, TOBILLOS, CALCÁNEO"
+            "ESTUDIO": "pie, TOBILLOS, CALCaNEO,calcaneo,tobillo"
         },
         {
             "CLAVE": "RXPI4P",
-            "ESTUDIO": "pie,PIE BILATERAL 2 PROY AP Y LAT,PIE, TOBILLOS, CALCÁNEO"
+            "ESTUDIO": "pie, TOBILLOS, CALCaNEO,calcaneo,tobillo"
         },
         {
             "CLAVE": "RXPIE1P",
-            "ESTUDIO": "pierna,PIERNA UNA PROYECCIÓN,FEMUR"
+            "ESTUDIO": "pierna,PIERNa,FEMUR"
         },
         {
             "CLAVE": "RXPILA",
-            "ESTUDIO": "pies,PIES LATERALES,PIE, TOBILLOS, CALCÁNEO"
+            "ESTUDIO": "pies,PIES LATERALES,PIE, TOBILLOS,tobillo,cacaneo"
         },
         {
             "CLAVE": "RXPIP4",
-            "ESTUDIO": "pie tobillos,PIE BILATERAL AP Y OBLICUAS,PIE, TOBILLOS, CALCÁNEO"
+            "ESTUDIO": "tobillos,PIE BILATERAL,PIE, TOBILLOS,calcaneo"
         },
         {
             "CLAVE": "RXPODE",
-            "ESTUDIO": "pelvis,PELVIS AP, OBLICUA IZQ Y DERECHA,PELVIS, SACROCOXIS"
+            "ESTUDIO": "pelvis,SACROCOXIS"
         },
         {
             "CLAVE": "RXPV1P",
-            "ESTUDIO": "pelvis,PELVIS 1 PROYECCIÓN,RÓTULA"
+            "ESTUDIO": "pelvis,RoTULA"
         },
         {
             "CLAVE": "RXRO1P",
-            "ESTUDIO": "rodilla,RODILLA 1 PROYECCIÓN,RÓTULA"
+            "ESTUDIO": "rodilla,rotula,tangenciales"
         },
         {
             "CLAVE": "RXRO2P",
-            "ESTUDIO": "rodilla,rotula,RODILLA DERECHA 2 PROY AP Y LAT,RÓTULA"
+            "ESTUDIO": "rodilla,rotula,tangenciales"
         },
         {
             "CLAVE": "RXRO2PI",
-            "ESTUDIO": "rodilla,rotula,RODILLA IZQUIERDA 2 PROY AP Y LAT,RÓTULA"
+            "ESTUDIO": "rodilla,rotula,tangenciales"
         },
         {
             "CLAVE": "RXRO4P",
-            "ESTUDIO": "rodilla,rotula,RODILLA BILATERAL 2 PROY AP Y LAT,RÓTULA"
+            "ESTUDIO": "rodilla,rotula,tangenciales,rodilla bilateral"
         },
         {
             "CLAVE": "RXRO5P",
-            "ESTUDIO": "rodilla,rodillas,rotula,RODILLAS BILATERAL 2 PROY AP Y PA,RÓTULA"
+            "ESTUDIO": "rodilla,rotula,tangenciales,rodillas bilaterales"
         },
         {
             "CLAVE": "RXROAX1",
-            "ESTUDIO": "rodilla,rodillas,rotula,RODILLAS AXIALES 1 PROYEC,TANGENCIALES, RODILLA EN GRADOS"
+            "ESTUDIO": "rodilla,rotula,tangenciales,rodillas axiales"
         },
         {
             "CLAVE": "RXROBI",
-            "ESTUDIO": "rotula,rótula,RÓTULA BILATERAL,RÓTULA"
+            "ESTUDIO": "rodilla,rotula,tangenciales,rotula bilateral"
         },
         {
             "CLAVE": "RXRS1PS",
-            "ESTUDIO": "rodillas,RODILLAS AP,RÓTULA"
+            "ESTUDIO": "rodilla,rotula,tangenciales,rodillas"
         },
         {
             "CLAVE": "RXRT3P",
-            "ESTUDIO": "rodillas,RODILLAS TANG 3 PROY 30-60-90 AXIALES,TANGENCIALES, RODILLA EN GRADOS"
+            "ESTUDIO": "rodilla,rotula,tangenciales,rodillas"
         },
         {
             "CLAVE": "RXSE1P",
-            "ESTUDIO": "senos,parasanales,SENOS PARANASALES 1 PROYECCIÓN,WATTERS, CALDWELL, LATERAL, CRÁNEO"
+            "ESTUDIO": "parasanales,SENOS PARANASALES,WATTERS, CALDWELL, LATERAL, "
         },
         {
             "CLAVE": "RXSE2P",
-            "ESTUDIO": "senos,parasanales,SENOS PARANASALES 2 PROYECCIONES,WATTERS, CALDWELL, LATERAL, CRÁNEO"
+            "ESTUDIO": "parasanales,SENOS PARANASALES,WATTERS, CALDWELL, LATERAL, "
         },
         {
             "CLAVE": "RXSE3P",
-            "ESTUDIO": "senos,parasanales,SENOS PARANASALES 3 PROYECCIONES,WATTERS, CALDWELL, LATERAL, CRÁNEO"
+            "ESTUDIO": "parasanales,SENOS PARANASALES,WATTERS, CALDWELL, LATERAL, "
         },
         {
             "CLAVE": "RXSOME",
-            "ESTUDIO": "serie,SERIE OSEA METASTASICA,HUESOS LARGOS, CRÁNEO LATERAL COLUMNA TORACO LUMBAR Y PÉLVIS"
+            "ESTUDIO": "serie,SERIE OSEA METASTASICA,HUESOS LARGOS,  LATERAL COLUMNA TORACO LUMBAR Y PeLVIS,serie osea"
         },
         {
             "CLAVE": "RXSX2P",
-            "ESTUDIO": "columna,columna pelvis,columna coxis,columna sacrocoxis,COLUMNA SACROCOXIS 2 PROY AP Y LAT,PELVIS"
+            "ESTUDIO": "columna pelvis,columna coxis,columna sacrocoxis,pelvis,sacrocoxis"
         },
         {
             "CLAVE": "RXTB2P",
-            "ESTUDIO": "tobillo,pie,pies,TOBILLO 2 PROYEC  AP Y LAT ,PIE, TOBILLOS, CALCÁNEO"
+            "ESTUDIO": "tobillo,pie,pies,TOBILLOS,calcaneo"
         },
         {
             "CLAVE": "RXTB3P",
-            "ESTUDIO": "tobillo,pie,pies,TOBILLO 3 PROYECCIONES,PIE, TOBILLOS, CALCÁNEO"
+            "ESTUDIO": "tobillo,pie,pies,TOBILLOS,calcaneo"
         },
         {
             "CLAVE": "RXTB4P",
-            "ESTUDIO": "tobillo,pie,pies,TOBILLOS BILATERALES 2 PROYEC,PIE, TOBILLOS, CALCÁNEO"
+            "ESTUDIO": "tobillo,pie,pies,TOBILLOS,calcaneo"
         },
         {
             "CLAVE": "RXTIPE",
-            "ESTUDIO": "piera,tibia,tibia y perone,PIERNA AP LATERAL TIBIA Y PERONE,TIBIA PERONE"
+            "ESTUDIO": "pierna,tibia,tibia y perone,PIERNA AP LATERAL TIBIA Y PERONE,TIBIA PERONE"
         },
         {
             "CLAVE": "RXTO1P",
-            "ESTUDIO": "telerradiografía,telerradiografia,TELERRADIOGRAFÍA DE TORAX,TÓRAX 1 PROYECCIÓN, PA POSTERO ANTERIOR"
+            "ESTUDIO": "telerradiografia,telerradiografia de torax"
         },
         {
             "CLAVE": "RXTO2P",
-            "ESTUDIO": "torax,tórax,TORAX 2 PROYEC  AP Y LAT ,TÓRAX 1 PROYECCIÓN, AP, LAT"
+            "ESTUDIO": "torax"
         },
         {
             "CLAVE": "RXTO2PD",
-            "ESTUDIO": "torax,tórax,TÓRAX OSEA 2 PROYECCIONES AP Y LAT DIGITAL,TÓRAX 1 PROYECCIÓN, AP, LAT"
+            "ESTUDIO": "torax,torax osea, osea"
         },
         {
             "CLAVE": "RXTO4P",
-            "ESTUDIO": "torax,tórax,TÓRAX 4 PROYEC  AP, LAT Y OBL ,TÓRAX 1 PROYECCIÓN, AP, LAT"
+            "ESTUDIO": "torax"
         },
         {
             "CLAVE": "RXTOAD",
-            "ESTUDIO": "torax,tórax,TORAX UNA ADICIONAL,TÓRAX 1 PROYECCIÓN, AP, LAT"
+            "ESTUDIO": "torax"
         },
         {
             "CLAVE": "RXTOB1",
-            "ESTUDIO": "tobillos,TOBILLO UNA PROYECCION,PIE, TOBILLOS, CALCÁNEO"
+            "ESTUDIO": "pie, TOBILLOS,calcaneo,tobillo"
         },
         {
             "CLAVE": "RXTODI",
-            "ESTUDIO": "tobillos,TOBILLOS DINÁMICOS,PIE, TOBILLOS, CALCÁNEO"
+            "ESTUDIO": "pie, TOBILLOS,calcaneo,tobillo"
         },
         {
             "CLAVE": "RXTOLA",
-            "ESTUDIO": "torax,tórax,TÓRAX LATERAL,TÓRAX 1 PROYECCIÓN, AP, LAT"
+            "ESTUDIO": "torax"
         },
         {
             "CLAVE": "RXTOOB",
-            "ESTUDIO": "torax,tórax,TORAX PA Y OBLICUA,TÓRAX 1 PROYECCIÓN, AP, LAT"
+            "ESTUDIO": "torax"
         },
         {
             "CLAVE": "RXTOPA",
-            "ESTUDIO": "torax,tórax,TORAX OSEO PROYECCION ADICIONAL 1 POSICION AP O LAT,TÓRAX 1 PROYECCIÓN, AP, LAT"
+            "ESTUDIO": "torax,torax osea, osea"
         },
         {
             "CLAVE": "RXTPAO",
-            "ESTUDIO": "torax,tórax,TORAX PA Y DOS OBLICUAS,TÓRAX 1 PROYECCIÓN, AP, LAT"
+            "ESTUDIO": "torax"
         },
         {
             "CLAVE": "RXTPBI",
-            "ESTUDIO": "pierna,tibia,tibia y perone,perone,PIERNA AP LATERAL TIBIA Y PERONE BILATERAL,TIBIA PERONE"
+            "ESTUDIO": "pierna,tibia,tibia y perone,PIERNA AP LATERAL TIBIA Y PERONE,TIBIA PERONE"
         },
         {
             "CLAVE": "RXTU1P",
-            "ESTUDIO": "silla,silla turca,SILLA TURCA 1 PROYECCIÓN,CRANEO"
+            "ESTUDIO": "silla,silla turca,SILLA TURCA"
         },
         {
             "CLAVE": "RXTU2P2",
-            "ESTUDIO": "silla,silla turca,SILLA TURCA 2 PROYECCIÓNES,CRÁNEO"
+            "ESTUDIO": "silla,silla turca,SILLA TURCA"
         },
         {
             "CLAVE": "FLESOF",
-            "ESTUDIO": ",ESOFAGOGRAMA,SERIE ESOFAGOGASTRODUODENAL"
+            "ESTUDIO": "ESOFAGOGRAMA,SERIE ESOFAGOGASTRODUODENAL"
         },
         {
             "CLAVE": "ECOTRREP",
-            "ESTUDIO": ",ECOCARDIOGRAMA TRANSTORACICO EN REPOSO,ECOCARDIOGRAMA"
+            "ESTUDIO": "ECOCARDIOGRAMA TRANSTORACICO EN REPOSO,ECOCARDIOGRAMA"
         },
         {
             "CLAVE": "ELECTRO",
-            "ESTUDIO": ",ELECTROCARDIOGRAMA EN REPOSO,ELECTROCARDIOGRAMA, EKG"
+            "ESTUDIO": "resonancia magnetica,RESONANCIA MAGNETICA DE ANTEBRAZO,ANGIORESONANCIA DE ANTEBRAZO"
         },
         {
             "CLAVE": "ESPIRO",
-            "ESTUDIO": ",ESPIROMETRIA,ESPIROMETRIA SIMPLE"
+            "ESTUDIO": "ESPIROMETRIA,ESPIROMETRIA SIMPLE"
         },
         {
             "CLAVE": "OXIMET",
-            "ESTUDIO": ",OXIMETRIA,OXIMETRIA DE PULSO"
+            "ESTUDIO": "OXIMETRIA,OXIMETRIA DE PULSO"
         },
         {
             "CLAVE": "RMABCO2",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE ABDOMEN COMPLETO 2 REGIONES SUPERIOR+PELVIS,RM ABDOMEN COMPLETO 2 REGIONES SUPERIOR+PELVIS"
+            "ESTUDIO": "resonancia de abdomen,resonancia abdominal,resonancia magnetica,RESONANCIA MAGNETICA DE ABDOMEN,resonancia magnetica abdominal"
         },
         {
             "CLAVE": "RMABIN",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE ABDOMEN INFERIOR O PELVIS,RM ABDOMEN INFERIOR O PELVIS"
+            "ESTUDIO": "resonancia de abdomen,resonancia abdominal,resonancia magnetica,RESONANCIA MAGNETICA DE ABDOMEN,resonancia magnetica abdominal"
         },
         {
             "CLAVE": "RMABSUP",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE ABDOMEN SUPERIOR,RM ABDOMEN SUPERIOR"
+            "ESTUDIO": "resonancia de abdomen,resonancia abdominal,resonancia magnetica,RESONANCIA MAGNETICA DE ABDOMEN,resonancia magnetica abdominal"
         },
         {
             "CLAVE": "RMAGADE",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE ANGIORESONANCIA DE ANTEBRAZO DERECHA CI,RM ANGIORESONANCIA DE ANTEBRAZO DERECHA CI"
+            "ESTUDIO": "resonancia de antebrazo,resonancia magnetica,RESONANCIA MAGNETICA DE ANTEBRAZO,ANGIORESONANCIA DE ANTEBRAZO"
         },
         {
             "CLAVE": "RMAGARR",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE ANGIORESONANCIA DE ARTERIAS RENALES CI,RM ANGIORESONANCIA DE ARTERIAS RENALES CI"
+            "ESTUDIO": "resonancia de arterias,resonancia magnetica,RESONANCIA MAGNETICA DE ANGIORESONANCIA,resonancia magnetica de arterias,resonancia magnetica de arterias renales,angioresonancia"
         },
         {
             "CLAVE": "RMAGBRA",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE ANGIORESONANCIA DE BRAZO CI,RM ANGIORESONANCIA DE BRAZO CI"
+            "ESTUDIO": "resonancia de brazo,resonancia magnetica,RESONANCIA MAGNETICA DE brazo,resonancia magnetica de angioresonancia,angioresonancia"
         },
         {
             "CLAVE": "RMAGCER",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE ANGIORESONANCIA CEREBRAL CI,RM ANGIORESONANCIA CEREBRAL CI"
+            "ESTUDIO": "resonancia cerebral,resonancia magnetica,RESONANCIA MAGNETICA cerebral,resonancia magnetica de angioresonancia,angioresonancia"
         },
         {
             "CLAVE": "RMAGSIP",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE ANGIORESONANCIA DE SISTEMA PORTAL CI,RM ANGIORESONANCIA DE SISTEMA PORTAL CI"
+            "ESTUDIO": "resonancia de sistema,resonancia magnetica,RESONANCIA MAGNETICA DE ANGIORESONANCIA DE SISTEMA PORTAL,ANGIORESONANCIA DE SISTEMA PORTAL,resonancia magnetica de sistema portal"
         },
         {
             "CLAVE": "RMAGVP",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE VASOS PERIFERICOS CI CON CONTRASTE,RMS ANGIORESONANCIA DE VASOS PERIFERICOS CI CON CONTRASTE"
+            "ESTUDIO": "resonancia de vasos, resonancia de vasos perifericos,resonancia magnetica,RESONANCIA MAGNETICA DE VASOS PERIFERICOS,ANGIORESONANCIA DE VASOS PERIFERICOS"
         },
         {
             "CLAVE": "RMANAND",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE ANTEBRAZO DERECHO CI CON CONTRASTE,RMS ANGIORESONANCIA DE ANTEBRAZO DERECHO CI CON CONTRASTE"
+            "ESTUDIO": "resonancia de antebrazo,resonancia magnetica,RESONANCIA MAGNETICA DE ANTEBRAZO,ANGIORESONANCIA DE ANTEBRAZO"
         },
         {
             "CLAVE": "RMANART",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE ARTERIAS RENALES CI CON CONTRASTE,RMS ANGIORESONANCIA DE ARTERIAS RENALES CI CON CONTRASTE"
+            "ESTUDIO": "resonancia de arterias,resonancia de arterias renales,resonancia magnetica,RESONANCIA MAGNETICA DE ARTERIAS RENALES,ANGIORESONANCIA DE ARTERIAS RENALES"
         },
         {
             "CLAVE": "RMANAT",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE AORTA TORACICA O ABDOMINAL,RM ANGIORRESONANCIA DE AORTA TORACICA O ABDOMINAL"
+            "ESTUDIO": "resonancia de aorta,resonancia magnetica,RESONANCIA MAGNETICA DE AORTA TORACICA O ABDOMINAL,ANGIORRESONANCIA DE AORTA TORACICA O ABDOMINAL,RESONANCIA MAGNETICA DE AORTA,RESONANCIA MAGNETICA Toracica,angioresonancia ,angioresonancia toracica,angioreonancia abdominal,agioresonancia de aorta"
         },
         {
             "CLAVE": "RMANCER",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA CEREBRAL CI CON CONTRASTE,RMS ANGIORESONANCIA CEREBRAL CI CON CONTRASTE"
+            "ESTUDIO": "resonancia cerebral,resonancia magnetica,RESONANCIA MAGNETICA CEREBRAL,ANGIORESONANCIA CEREBRAL"
         },
         {
             "CLAVE": "RMANPCO",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE POLIGONOS DE WILLIS CON CONTRASTE,RM ANGIORRESONANCIA DE POLIGONOS DE WILLIS CON CONTRASTE"
+            "ESTUDIO": "resonancia de poligonos,resonancia magnetica,RESONANCIA MAGNETICA DE POLIGONOS DE WILLIS,ANGIORRESONANCIA DE POLIGONOS DE WILLIS, resonancia magnetica de poligonos,angioresonancia de poligonos"
         },
         {
             "CLAVE": "RMANPOW",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE POLIGONOS DE WILLIS,RM ANGIORRESONANCIA DE POLIGONOS DE WILLIS"
+            "ESTUDIO": "resonancia de poligonos,resonancia magnetica,RESONANCIA MAGNETICA DE POLIGONOS DE WILLIS,RM ANGIORRESONANCIA DE POLIGONOS DE WILLIS"
         },
         {
             "CLAVE": "RMANSIS",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE SISTEMA PORTAL CI CON CONTRASTE,RMS ANGIORESONANCIA DE SISTEMA PORTAL CI CON CONTRASTE"
+            "ESTUDIO": "resonancia de poligonos,resonancia magnetica,RESONANCIA MAGNETICA DE POLIGONOS DE WILLIS,RM ANGIORRESONANCIA DE POLIGONOS DE WILLIS"
         },
         {
             "CLAVE": "RMANSP",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE BRAZO CI CON CONTRASTE,RMS ANGIORESONANCIA DE BRAZO CI CON CONTRASTE"
+            "ESTUDIO": "resonancia de brazo,resonancia magnetica,RESONANCIA MAGNETICA DE BRAZO,ANGIORESONANCIA DE BRAZO"
         },
         {
             "CLAVE": "RMANVAS",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE VASOS PERIFERICOS CI,RMS ANGIORESONANCIA DE VASOS PERIFERICOS CI"
+            "ESTUDIO": "resonancia de vaso, resonancia de vasos perifericos,resonancia magnetica,RESONANCIA MAGNETICA DE VASOS PERIFERICOS,ANGIORESONANCIA DE VASOS PERIFERICOS"
         },
         {
             "CLAVE": "RMARCOX",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE ARTICULACION COXOFEMORAL,RM ARTICULACION COXOFEMORAL 1"
+            "ESTUDIO": "resonancia magnetica,RESONANCIA MAGNETICA DE ARTICULACION COXOFEMORAL,ARTICULACION COXOFEMORAL,resonancia magnetica de articulacion"
         },
         {
             "CLAVE": "RMARTEM",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE ARTICULACION TEMPOROMANDIBULAR ATM,RM ATM ARTICULACION TEMPOROMANDIBULAR 1"
+            "ESTUDIO": "resonancia magnetica,RESONANCIA MAGNETICA DE ARTICULACION COXOFEMORAL,ARTICULACION COXOFEMORAL,resonancia magnetica de articulacion"
         },
         {
             "CLAVE": "RMCACI1",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE CADERA CI,RM CADERA CI 1"
+            "ESTUDIO": "resonancia de cadera,resonancia magnetica,RESONANCIA MAGNETICA DE CADERA"
         },
         {
             "CLAVE": "RMCOCD",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE COLUMNA CERVICO DORSAL 2REG,RM COLUMNA CERVICO DORSAL 2REG"
+            "ESTUDIO": "resonancia magnetica,RESONANCIA MAGNETICA DE COLUMNA CERVICO DORSAL,resonancia de COLUMNA CERVICO DORSAL,resonancia de columna,resonancia de cervico,resonancia dorsal"
         },
         {
             "CLAVE": "RMCOCE",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE COLUMNA CERVICAL,RM COLUMNA CERVICAL"
+            "ESTUDIO": "resonancia cervical,RESONANCIA MAGNETICA DE COLUMNA CERVICAL,resoancia de COLUMNA"
         },
         {
             "CLAVE": "RMCODO",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE CODO,RM CODO"
+            "ESTUDIO": "resonancia de codo,resonancia magnetica,RESONANCIA MAGNETICA DE CODO"
         },
         {
             "CLAVE": "RMCODOL",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE COLUMNA DORSO LUMBAR 2REG,RM COLUMNA DORSO LUMBAR 2REG"
+            "ESTUDIO": "resonancia lumbar,resonancia magnetica,RESONANCIA MAGNETICA DE COLUMNA DORSO LUMBAR"
         },
         {
             "CLAVE": "RMCOLAN",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE COLANGIORESONANCIA CI,RM COLANGIORESONANCIA CI"
+            "ESTUDIO": "resonancia de colangioresonancia,resonancia magnetica,RESONANCIA MAGNETICA DE COLANGIORESONANCIA,COLANGIORESONANCIA"
         },
         {
             "CLAVE": "RMCOLTO",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE COLUMNA TORAXICA,RM COLUMNA TORAXICA"
+            "ESTUDIO": "resonancia de columna,resonancia magnetica,RESONANCIA MAGNETICA DE COLUMNA TORAXICA,resonancia COLUMNA TORAXICA"
         },
         {
             "CLAVE": "RMCOLUM",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE COLUMNA LUMBAR O LUMBOSACRA,RM COLUMNA LUMBAR O LUMBOSACRA"
+            "ESTUDIO": "resonancia magnetica,RESONANCIA MAGNETICA DE COLUMNA LUMBAR O LUMBOSACRA,resonancia de COLUMNA LUMBAR, resonancia LUMBOSACRA"
         },
         {
             "CLAVE": "RMCRAN",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE CRANEO + ANGIORESONANCIAPW + VASOS DE CUELLO,RM CRANEO + ANGIORESONANCIAPW + VASOS DE CUALLO"
+            "ESTUDIO": "resonancia de craneo,resonancia de resonancia magnetica,RESONANCIA MAGNETICA DE CRANEO, resonancia de VASOS DE CUALLO"
         },
         {
             "CLAVE": "RMCRANE",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE CRANEO,RM CRANEO"
+            "ESTUDIO": "resonancia magnetica,RESONANCIA MAGNETICA DE CRANEO,resonancia de CRANEO"
         },
         {
             "CLAVE": "RMCRPW",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE CRANEO + RESONANCIA DE POLIGONO DE WILLIS,RM CRANEO + ANGIORRESONANCIA POLIGONO DE WILLIS"
+            "ESTUDIO": "resonancia magnetica,RESONANCIA MAGNETICA DE CRANEO,resonancia de CRANEO"
         },
         {
             "CLAVE": "RMCRVC",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE CRANEO+ANGIORRESONANCIA PW+VASOS DE CUELLO CON CONTRASTE,RM CRANEO+ANGIORRESONANCIAPW+VASOS DE CUELLO CON CONTRASTE"
+            "ESTUDIO": "resonancia magnetica,RESONANCIA MAGNETICA DE CRANEO,resonancia de CRANEO"
         },
         {
             "CLAVE": "RMCUEL",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE CUELLO,RM CUELLO"
+            "ESTUDIO": "resonancia de cuello,resonancia magnetica,RESONANCIA MAGNETICA DE CUELLO"
         },
         {
             "CLAVE": "RMEXTR1",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE EXTREMIDAD BRAZO, ANTEBRAZO, MUSLO, PIERNA,RM EXTREMIDAD BRAZO, ANTEBRAZO, MUSLO, PIERNA 1"
+            "ESTUDIO": "resonancia magnetica,RESONANCIA MAGNETICA DE EXTREMIDAD,resonancia de brazo,resonancia de antebrazo,resonancia de muslo,resonancia de PIERNA,resonancia magnetica de brazo,resonancia magnetica de antibrazo"
         },
         {
             "CLAVE": "RMHOM1",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE HOMBRO,RM HOMBRO 1"
+            "ESTUDIO": "resonancia de hombro,resonancia magnetica,RESONANCIA MAGNETICA DE HOMBRO"
         },
         {
             "CLAVE": "RMMAFA",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE MACIZO FACIAL,RM MACIZO FACIAL"
+            "ESTUDIO": "resonancia magnetica,RESONANCIA MAGNETICA DE MACIZO FACIAL,resonancia MACIZO FACIAL,resonancia magnetica de macizo,resonancia facial,resonancia magnetica facial"
         },
         {
             "CLAVE": "RMMANO",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE MANO CI,RM MANO CI"
+            "ESTUDIO": "resonancia de mano,resonancia magnetica,RESONANCIA MAGNETICA DE MANO"
         },
         {
             "CLAVE": "RMMAMS",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE MAMA SIMPLE,RM MAMA SIMPLE"
+            "ESTUDIO": "resonancia de mama,resonancia magnetica,RESONANCIA MAGNETICA DE MAMA SIMPLE"
         },
         {
             "CLAVE": "RMMAMC",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE MAMA CONTRASTADA,RM MAMA CONTRASTADA"
+            "ESTUDIO": "resonancia contrastada,resonancia magnetica,RESONANCIA MAGNETICA DE MAMA CONTRASTADA,rsonancia magnetica CONTRASTADA"
         },
         {
             "CLAVE": "RMMCGA",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE MEDIO DE CONTRASTE GADOLINIO,RM MEDIO DE CONTRASTEGADOLINIO"
+            "ESTUDIO": "resonancia magnetica,RESONANCIA MAGNETICA DE MEDIO DE CONTRASTE GADOLINIO,resonancia MEDIO DE CONTRASTEGADOLINIO"
         },
         {
             "CLAVE": "RMMUÑE",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE MUÑECA,RM MUÑECA"
+            "ESTUDIO": "resonancia magnetica,RESONANCIA MAGNETICA DE MUÑECA,resonancia de MUÑECA"
         },
         {
             "CLAVE": "RMOIDOS",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE OIDOS,RM OIDOS"
+            "ESTUDIO": "resonancia de oidos,resonancia magnetica,RESONANCIA MAGNETICA DE OIDOS"
         },
         {
             "CLAVE": "RMORBI",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE ORBITAS,RM ORBITAS"
+            "ESTUDIO": "resonancia de orbitas,resonancia magnetica,RESONANCIA MAGNETICA DE ORBITAS"
         },
         {
             "CLAVE": "RMPITA1",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE PIE O TARSO,RM PIE O TARSO 1"
+            "ESTUDIO": "resonancia de pie,resonancia de tarso,resonancia magnetica,RESONANCIA MAGNETICA DE PIE O TARSO"
         },
         {
             "CLAVE": "RMRE1RE",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE RESONANCIA 1 REGION,RM RESONANCIA 1 REGION"
+            "ESTUDIO": "resonancia de resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE RESONANCIA 1 REGION,RESONANCIA 1 REGION"
         },
         {
             "CLAVE": "RMRE2R",
-            "ESTUDIO": "resonancia,resonancia magnetica,RMS RESONANCIA 2 REGIONES CI,RMS RESONANCIA 2 REGIONES CI"
+            "ESTUDIO": "resonancia magnetica,RMS RESONANCIA 2 REGIONES,RMS RESONANCIA 2 REGIONES"
         },
         {
             "CLAVE": "RMREAO",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE ANGIORESONANCIA DE AORTA TORACICA O ABDOMINAL CON CONTRASTE,RM ANGIORESONANCIA DE AORTA TORACICA O ABDOMINAL CON CONTRASTE"
+            "ESTUDIO": "resonancia aorta,resonancia toracica,resonancia de abdomen,resonancia abdominal,resonancia magnetica,RESONANCIA MAGNETICA DE ANGIORESONANCIA DE AORTA TORACICA O ABDOMINAL CON CONTRASTE,resonancia ANGIORESONANCIA DE AORTA TORACICA O ABDOMINAL CON CONTRASTE"
         },
         {
             "CLAVE": "RMRODI1",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE RODILLA,RM RODILLA 1"
+            "ESTUDIO": "resonancia de rodilla,resonancia magnetica,RESONANCIA MAGNETICA DE RODILLA"
         },
         {
             "CLAVE": "RMSEPA",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE SENOS PARANASALES,RM SENOS PARANASALES"
+            "ESTUDIO": "resonancia de senos parasanales,resonancia magnetica,RESONANCIA MAGNETICA DE SENOS PARANASALES"
         },
         {
             "CLAVE": "RMSITUC",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE SILLA TURCA SE REQUIERE GADOLINIO CON CONTRASTE,RM SILLA TURCA SE REQUIERE GADOLINIO CON CONTRASTE"
+            "ESTUDIO": "resonancia de silla,resonancia magnetica,RESONANCIA MAGNETICA DE SILLA TURCA"
         },
         {
             "CLAVE": "RMSITUR",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE SILLA TURCA SIMPLE,RM SILLA TURCA SIMPLE"
+            "ESTUDIO": "resonancia de silla,resonancia magnetica,RESONANCIA MAGNETICA DE SILLA TURCA"
         },
         {
             "CLAVE": "RMTOBIL",
-            "ESTUDIO": "resonancia,resonancia magnetica,RESONANCIA MAGNETICA DE TOBILLO,RM TOBILLO"
+            "ESTUDIO": "resonancia de tobillo,resonancia magnetica,RESONANCIA MAGNETICA DE TOBILLO"
         }
     ]
 }

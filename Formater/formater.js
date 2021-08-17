@@ -8,8 +8,8 @@ function formater(){
     let add = []
     for (let object of data.add){
         let dic ={}
-        dic.canonicalName = object.CLAVE
-        dic.synonyms = object.ESTUDIO.toLowerCase().split(',')
+        dic.canonicalName = object.CLAVE.trim();
+        dic.synonyms = object.ESTUDIO.toLowerCase().split(',').map((synonym) => synonym.trim()).filter((synonym)=> synonym != "")
         dic.nativeLanguageTag= "es"
         add.push(dic)
     }
@@ -28,5 +28,5 @@ function formater(){
     });
 }
 
-
 formater();
+//exports.formater = formater;
