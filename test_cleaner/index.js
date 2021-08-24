@@ -1,16 +1,28 @@
 const fs = require('fs');
-const data = require('./catalogoEstudios.json')
-const {DATA_TO_PUSH_PATH} = require('../keys')
+const data = require('./dataToClean.json')
 
-function formater(){    
+function main(){    
     // stringify JSON Object
+    let word = 'tc '
+    let wordReplacer = 'tomografia computarizada '
+    let wordReplacer2 = 'tomografia '
     let formaterData ={}
     let add = []
     for (let object of data.add){
         let dic ={}
-        dic.canonicalName = object.CLAVE.trim();
-        dic.synonyms = object.ESTUDIO.toLowerCase().split(',').map((synonym) => limpiador(synonym.trim()).trim()).filter((synonym)=> synonym != "")
-        dic.nativeLanguageTag= "es"
+        dic.frases = object.frases.toLowerCase().split(',').map((synonym) => synonym.trim()).filter((synonym)=> synonym != "")
+        let newFrases = []
+        for (let frase of dic.frases){
+            let newFrase = limpiador(frase);
+            if (newFrase.indexOf(word) > -1){
+                newFrase = newFrase.replace(word,wordReplacer);
+                newFrases.push(newFrase)
+                newFrase = newFrase.replace(wordReplacer,wordReplacer2);
+                newFrases.push(newFrase)    
+            }
+            newFrases.push(limpiador(frase))
+        }
+        dic.frases = newFrases.join(',')
         add.push(dic)
     }
     formaterData.add = add;
@@ -18,7 +30,7 @@ function formater(){
     var jsonContent = JSON.stringify(formaterData,null,2);
     //console.log(jsonContent);
     
-    fs.writeFile(DATA_TO_PUSH_PATH, jsonContent, 'utf8', function (err) {
+    fs.writeFile('./dataClean.json', jsonContent, 'utf8', function (err) {
         if (err) {
             console.log("An error occured while writing JSON Object to File.");
             return console.log(err);
@@ -27,6 +39,8 @@ function formater(){
         console.log("JSON file has been saved.");
     });
 }
+
+
 
 function  limpiador(cadena) {
     cadena = cadena.toLowerCase();
@@ -53,6 +67,4 @@ function  limpiador(cadena) {
     return cadena
 }
 
-
-formater();
-//exports.formater = formater;
+main();

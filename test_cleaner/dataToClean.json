@@ -1,0 +1,139 @@
+{
+    "add": [
+        {
+            "frases": "TC Abdomen completo (superior e inferior) con contraste, tc abdomen completo,tac de abdomen completo, abdomen superior, abdomen inferior"
+        },
+        {
+            "frases": "TC Abdomen completo (superior e inferior) simple,tc abdomen completo,tac de abdomen completo, abdomen superior, abdomen inferior"
+        },
+        {
+            "frases": "TC Abdomen inferior simple (pelvis),tc abdomen completo,tac de abdomen completo, abdomen inferior, tac de pelvis"
+        },
+        {
+            "frases": "TC Abdomen superior con contraste,tc abdomen completo, abdomen superior,tac abdomen superior"
+        },
+        {
+            "frases": "TC Abdomen superior simple,tc abdomen completo, abdomen superior,tac abdomen superior, tac de abdomen superior simple"
+        },
+        {
+            "frases": "TC Angio aorta abdominal,tac de angio aorta, tac abdominal"
+        },
+        {
+            "frases": "TC Angio aorta torácica,tac de aorta, tac abdominal, tac de angio aorta toraxica, tac toraxica,tac toracica"
+        },
+        {
+            "frases": "TC Angio carótidas,tac de angio carotidas, tac de carotidas"
+        },
+        {
+            "frases": "TC Angio cerebral,tc cerebral, tac cerebral"
+        },
+        {
+            "frases": "TC Columna 1 región con contraste, tc de columna, tac de columna "
+        },
+        {
+            "frases": "TC Columna 1 región simple, tc de columna, tac de columna"
+        },
+        {
+            "frases": "TC Columna 2 regiones con contraste,tc de columna, tac de columna"
+        },
+        {
+            "frases": "TC Columna 2 regiones simple,tc de columna, tac de columna"
+        },
+        {
+            "frases": "TC Columna 3 regiones con contraste,tc de columna,tac de columna"
+        },
+        {
+            "frases": "TC Columna 3 regiones simple,tc de columna,tac de columna"
+        },
+        {
+            "frases": "TC Cráneo con contraste,tc de craneo,tac de craneo"
+        },
+        {
+            "frases": "TC Cráneo simple,tc de craneo, tac de craneo"
+        },
+        {
+            "frases": "TC Cuello con contraste,tc de cuello,tac de cuello"
+        },
+        {
+            "frases": "TC Cuello simple,tc de cuello,tac de cuello"
+        },
+        {
+            "frases": "TC Escanometría de miembros inferiores por tac,Escanometría,tc de escanometria,tac de escanometria"
+        },
+        {
+            "frases": "TC Extremidad con contraste,tc de extremidad,tac de extremidad"
+        },
+        {
+            "frases": "TC Extremidad simple,tc de extremidad"
+        },
+        {
+            "frases": "TC Glándulas suprarrenales,tc de grandulas, tac de grandulas"
+        },
+        {
+            "frases": "TC Macizo facial con contraste,tc de macizo, tac de macizo, tc de macizo facial"
+        },
+        {
+            "frases": "TC Macizo facial simple,tc de macizo, tac de macizo, tc de macizo facial"
+        },
+        {
+            "frases": "TC Oído con contraste, tac de oido, tc de oido"
+        },
+        {
+            "frases": "TC Oído simple,tac de oido, tc de oido"
+        },
+        {
+            "frases": "TC Orbita con contraste, tc de orbita, tac de orbita"
+        },
+        {
+            "frases": "TC Orbita simple,tc de orbita, tac de orbita"
+        },
+        {
+            "frases": "TC Pelvis con contraste,tc de pelvis,tac de pelvis"
+        },
+        {
+            "frases": "TC Pelvis simple,tc de pelvis,tac de pelvis"
+        },
+        {
+            "frases": "TC Rodilla,tc de rodilla,tac de rodilla"
+        },
+        {
+            "frases": "TC Scort de calcio,tac de calcio, tc de calcio"
+        },
+        {
+            "frases": "TC Senos paranasales con contraste"
+        },
+        {
+            "frases": "TC Senos paranasales simple,tc de senos, tac de senos"
+        },
+        {
+            "frases": "TC Silla turca con contraste,tc de silla turca,tac de silla turca"
+        },
+        {
+            "frases": "TC Tórax alta resolución (sin contraste),tac de torax,tc de torax"
+        },
+        {
+            "frases": "TC Tórax con contraste en inspiración y expiración,tac de torax,tc de torax"
+        },
+        {
+            "frases": "TC Tórax con contraste,tac de torax,tc de torax"
+        },
+        {
+            "frases": "TC Tobillo (fractura/tumores),tc de tobillo,tac de tobillo,tc de fractura"
+        },
+        {
+            "frases": "TC Tórax simple,tac de torax,tc de torax"
+        },
+        {
+            "frases": "TC Tórax simple en inspiración y expiración,tac de torax,tc de torax"
+        },
+        {
+            "frases": "TC Urotac en 4 fases simple arterial venosa y excretora,tc de urotac,tc urotac, tac de urotac"
+        },
+        {
+            "frases": "TC Urotac con contraste,tc de urotac,tc urotac, tac de urotac"
+        },
+        {
+            "frases": "TC Urotac simple,tc de urotac,tc urotac, tac de urotac"
+        }
+    ]
+}
