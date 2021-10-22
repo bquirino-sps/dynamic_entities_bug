@@ -4,8 +4,7 @@ Lo que hace este script es tomar un archivo JSON con un formato definido para ge
 
 # Para correr el script con exito seguir los pasos
 
-1. Necesitamos convertir nuestro excel ```catalogo_estudios_formated_v2.xlsx``` a JSON haciendo uso de la herrramienta [EXCEL to JSON](https://beautifytools.com/excel-to-json-converter.php)
-2. Una vez tengamos nuestro JSON debemos vaciar el contenido manualmente en ```/Formater/catalogoEstudios.json```
+1. Necesitamos convertir nuestro excel ```ExcelToJson/catalogo_estudios.xlsx``` a JSON ejecutando el comando ```node ./ExcelToJson/transformer.js```. Esto nos generara un archivo JSON para ser formateado a las especificaciones de ODA.
 3. Ejecutar el script formater.js con el comando ```node ./Formater/formater.js```. Esto nos generara un archivo nuevo en la ruta ```/dataToPush/catalogoEstudios.json```
 4. Ejecutar el comando ```node index.js```.
 ## Convertidores
